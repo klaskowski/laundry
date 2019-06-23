@@ -1,0 +1,4788 @@
+{
+  "categories": {
+    "Akcesoria": {
+      "index": 3,
+      "items": {
+        "90DFIJSKNacs90dvin": {
+          "allowedModifiers": {
+            "9UIJDKANCAS90DUVJOIcsnlje90f8od": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 11,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/chustaSzal.jpg?alt=media&token=6f04f60c-95eb-49b9-be45-3d5d7c2429c9",
+          "isCustomPriced": false,
+          "name": "Chustka/apaszka/szal",
+          "packing": {
+            "s9u0dijkndsc90aw90DJISNnjcs90": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 21
+        },
+        "90jND90WFEIJKCndcsj90evg": {
+          "allowedModifiers": {
+            "N9ondsc9ifjdkn90HIO9JINnjcso9": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 12,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/czapka.jpg?alt=media&token=3041aa43-24be-429b-b88b-038a4aa39361",
+          "isCustomPriced": false,
+          "name": "Czapka",
+          "packing": {
+            "9IDJinmcvda90ugij": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 15
+        },
+        "90jna09sdwfeuaoijkd": {
+          "allowedModifiers": {
+            "9jidmksc9sijckmJCNJ9ijkn": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 67,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/poszetka.jpg?alt=media&token=fb0223a3-29ee-4826-8d18-3b6336fcfe7a",
+          "isCustomPriced": false,
+          "name": "Poszetka",
+          "packing": {
+            "9IJSDKMXncdv0ergwijofs": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 12
+        },
+        "9Iojs9uijkn9oijlnp9uiojl9upio9U0ioj": {
+          "allowedModifiers": {
+            "9UDIJNc9sihdjlnvipdofs": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 100,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/szalik.jpg?alt=media&token=1fde5e49-ccb7-4bac-aa66-6380281fc569",
+          "isCustomPriced": false,
+          "name": "Szalik",
+          "packing": {
+            "9Incs90coindjvdsiovhudslj90ivdhjln": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 15
+        },
+        "9nmc9adjiv9UDSINJnscois9Ioihj": {
+          "allowedModifiers": {
+            "9Uijksn9JUFEIJDKCXcnjldscu90pe9u0wd": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 38,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/krawat.jpg?alt=media&token=29d00374-0f89-4756-a05c-b99981e7c505",
+          "isCustomPriced": false,
+          "name": "Krawat",
+          "packing": {
+            "9IOjksN8OIHnc8sdovei9v8doiw9reifdj": {
+              "isSelectedinitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 15
+        }
+      },
+      "name": "Akcesoria"
+    },
+    "Dla_Domu": {
+      "index": 4,
+      "items": {
+        "09Uijskn908daoegjndvc": {
+          "allowedModifiers": {
+            "9U0PDIJSFC9hjicdv09eg": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 102,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/spiwor.jpg?alt=media&token=e3eedaf8-8e28-4f25-8992-8726634b98ae",
+          "isCustomPriced": false,
+          "name": "Śpiwór",
+          "packing": {
+            "90UIJDSN90ifodjv09uioj": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 40
+        },
+        "80UDJVNncv09s8doihvjln": {
+          "allowedModifiers": {
+            "9IPADJKncsdhvsoijncz90heiodjl": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 68,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/poszewka%20jas%CC%81.jpg?alt=media&token=666ed25f-0116-4f2a-a28d-5e7eec69f005",
+          "isCustomPriced": false,
+          "name": "Poszewka mała/jaś",
+          "packing": {
+            "90UIOJDNCnxclmsv09ewgoiasd": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 5
+        },
+        "90UFIWJK90ufijdvdljgh9w0rjsl": {
+          "allowedModifiers": {
+            "9PIDJKndcvsha90goij": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 70,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/poszwakoldra.jpg?alt=media&token=d3a64023-61e8-4469-8a69-6085732d3bc3",
+          "isCustomPriced": false,
+          "name": "Poszwa na kołdrę",
+          "packing": {
+            "90DJANL90scihjna90auef8oi": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 10
+        },
+        "90UijlkSFNDCFS9UIJXCKVjlndvijksldf90njld": {
+          "allowedModifiers": {
+            "9USFJIKmnfsdv90joidvnk": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 59,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/poduszkapuch.jpg?alt=media&token=9258e3db-e8e8-4f42-81de-22832889ad4c",
+          "isCustomPriced": false,
+          "name": "Poduszka puchowa duża",
+          "packing": {
+            "9IJODKnklvdloid8vi": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 50
+        },
+        "90Unjcs09adohv90uwf": {
+          "allowedModifiers": {
+            "90IUSJKNAX90CUDVIHNncs80dvohusdj": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 80,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/biez%CC%87nik.jpg?alt=media&token=5726f031-6f66-486f-83eb-86fb315e1c39",
+          "isCustomPriced": false,
+          "name": "Serwetka duża/bieżnik",
+          "packing": {
+            "I9DSNncdov90egidsvjncl": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 13
+        },
+        "9FIJKVMN0fd0i9": {
+          "allowedModifiers": {
+            "9upijsKNXNC9ionNJLCSO9VNJXZLJXjicknsl": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 78,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/re%CC%A8cznik%20plaz%CC%87owy.jpg?alt=media&token=23548efc-6107-4c7c-90d4-8565cde21231",
+          "isCustomPriced": false,
+          "name": "Ręcznik kąpielowy",
+          "packing": {
+            "08HJSOINJjcisn90uiosdhjlv": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 7
+        },
+        "9IOJKLd0fu9dijkv09grijfbkn4trgnfkl": {
+          "allowedModifiers": {
+            "jkas9ijkdsnnm9IJndsa": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 56,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/poduszka%20duz%CC%87a.jpg?alt=media&token=ea1e31be-7322-4a40-9111-f50fb2290d64",
+          "isCustomPriced": false,
+          "name": "Poduszka duża",
+          "packing": {
+            "0IOKJDSMndmscw9ojikcm": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 35
+        },
+        "9PJNCS0i9pojkcmxca0d9pvojikl": {
+          "allowedModifiers": {
+            "0OKMSnmdsc90pfoijkc": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 57,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/poduszka%20jas%CC%81.jpg?alt=media&token=1b6dc015-f7e1-46f0-aca8-585edf4f200a",
+          "isCustomPriced": false,
+          "name": "Poduszka mała",
+          "packing": {
+            "0is9pokcmns0KLDAknmcx09ipoj": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 20
+        },
+        "9U0DOIJNxncs0va8ehodvu": {
+          "allowedModifiers": {
+            "9Udiojwa90UADIOJjnd0cosioih09fe": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 74,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/przes%CC%81cierad%C5%82o.jpg?alt=media&token=3b781252-6993-498e-88ad-d9b6fbeae413",
+          "isCustomPriced": false,
+          "name": "Prześcieradło duże z gumką",
+          "packing": {
+            "90IUJOFJNAVhiosCVA09E8VOIDUhbxncsu08adva": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 13
+        },
+        "9U0IJDCKNncvd09fsbuijosxu90io90rq3e": {
+          "allowedModifiers": {
+            "90UPIJDSnjacdsva90gehiod": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 79,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/s%CC%81cierka.jpg?alt=media&token=59040f19-aa40-4e4b-b925-bc6965c92fd3",
+          "isCustomPriced": false,
+          "name": "Ręcznik mały/ścierka",
+          "packing": {
+            "90PODJKNncvd90sbjpdi": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 5
+        },
+        "9U0IJKNAMbjnsmfd80ahiojvad": {
+          "allowedModifiers": {
+            "9U0ijdnam0DHf8oijn": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 65,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/pokrowiec%20na%20materac.jpg?alt=media&token=83ca12a5-c0d7-48a4-abce-82077984d556",
+          "isCustomPriced": false,
+          "name": "Pokrowiec na materac pojedynczy",
+          "packing": {
+            "9IUJDKNmlcs0w98voiesj": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 65
+        },
+        "9U0JIncs90joidvnjnlsb": {
+          "allowedModifiers": {
+            "9IJknsmfdo9e08ohidv": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 62,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/pokrowiec%20na%20fotel.jpg?alt=media&token=edd681f8-8553-4dd7-99f9-a107776e28a2",
+          "isCustomPriced": false,
+          "name": "Pokrowiec na fotel",
+          "packing": {
+            "9iduojwnchdw8oiusaJBNKDc9jhiovadkn": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 40
+        },
+        "9UDCJSKLjcvsd0a9sjn": {
+          "allowedModifiers": {
+            "90UDIJKSnjdcs08aevo": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 77,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/re%CC%A8cznik%20plaz%CC%87owy.jpg?alt=media&token=23548efc-6107-4c7c-90d4-8565cde21231",
+          "isCustomPriced": false,
+          "name": "Ręcznik plażowy",
+          "packing": {
+            "IU9EAPNKcsvd90dvhi": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 10
+        },
+        "9UFIJAKNnjxclsa90d": {
+          "allowedModifiers": {
+            "9FIJKNaicv9a08oidsljn": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 73,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/przes%CC%81cierad%C5%82o.jpg?alt=media&token=3b781252-6993-498e-88ad-d9b6fbeae413",
+          "isCustomPriced": false,
+          "name": "Prześcieradło z gumką",
+          "packing": {
+            "9UDJFNdacisoadv9dhi": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 10
+        },
+        "9UFIJSKi9of09ed90vioj": {
+          "allowedModifiers": {
+            "9IJDKSCMndmcvd9ge0usjdifkv": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 103,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/s%CC%81piwo%CC%81r%20puchowy.jpg?alt=media&token=7393a396-a11d-4c3f-a2d3-e7beeb9a6c5f",
+          "isCustomPriced": false,
+          "name": "Śpiwór puchowy",
+          "packing": {
+            "9IJDSKNacvda0f8biovsrfbivinjl": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 60
+        },
+        "9UJIKNnmcfdv9u0ijgkvn": {
+          "allowedModifiers": {
+            "9UIJSKFNjxcsfw9eijdvkln": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 61,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/poduszkapuch.jpg?alt=media&token=9258e3db-e8e8-4f42-81de-22832889ad4c",
+          "isCustomPriced": false,
+          "name": "Poduszka puchowa mała jaś",
+          "packing": {
+            "au8iosjn9UIJHNCnjcsoh908foi": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 30
+        },
+        "9UJnxdcs8voiudnjls90sbojln": {
+          "allowedModifiers": {
+            "9Iknlamashsoifdjnc": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 63,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/pokrowiec%20na%20sofe%CC%A8.jpg?alt=media&token=5defd9a1-737e-48c8-a518-9abb66061fd3",
+          "isCustomPriced": false,
+          "name": "Pokrowiec na sofę 2 os.",
+          "packing": {
+            "90UIjkmndsc08uohivdnj": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 70
+        },
+        "9USIJKnmac90eafuijvdk": {
+          "allowedModifiers": {
+            "9IOJDSKMCadcsd9v0jic": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 108,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/zas%C5%82ona.jpg?alt=media&token=7eda9faa-441a-4633-a7d0-8b4b0b91e3e6",
+          "isCustomPriced": false,
+          "metricSystem": "m²",
+          "name": "Zasłona",
+          "packing": {
+            "09IODSKMaxcnd9av0ij": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 8
+        },
+        "9Uijnsa90usijan": {
+          "allowedModifiers": {
+            "9UIJCNKSM90ujicsnkm": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 64,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/pokrowiec%20na%20sofe%CC%A8.jpg?alt=media&token=5defd9a1-737e-48c8-a518-9abb66061fd3",
+          "isCustomPriced": false,
+          "name": "Pokrowiec na sofę 3 os.",
+          "packing": {
+            "U8IOJDNAMnjlcsmx9u0jl": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 90
+        },
+        "CNKMFL0293woJN349JOCMfs": {
+          "allowedModifiers": {
+            "NJLFVIOGRme9fiojdmkmlv": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 32,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/ko%C5%82dra%20we%C5%82niana.jpg?alt=media&token=cf281120-7f8e-4bf3-b21a-c6bdb7ae8576",
+          "isCustomPriced": false,
+          "name": "Kołdra wełniana podwójna",
+          "packing": {
+            "mkdlaf90jdfkvnkfadNMSDnkdc9": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 90
+        },
+        "JK89ijkdsj089fidjk": {
+          "allowedModifiers": {
+            "9JVKD9ujikdvnm9uo8idvjnc": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 58,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/poduszka%20jas%CC%81.jpg?alt=media&token=1b6dc015-f7e1-46f0-aca8-585edf4f200a",
+          "isCustomPriced": false,
+          "name": "Poduszka mała jaś",
+          "packing": {
+            "NJFDS9uiojsfdnc9su0": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 10
+        },
+        "JVKfvoihjx0s9dviojnlx0dsvh": {
+          "allowedModifiers": {
+            "90uipjfanlc09h8iaocjn": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 69,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/poszwa%20poduszka%20duza.jpg?alt=media&token=af667c63-5db3-4956-9882-cbd7c69c302b",
+          "isCustomPriced": false,
+          "name": "Poszewka na poduszkę",
+          "packing": {
+            "90IJDKNSCmanclvdc90sbripof": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 7
+        },
+        "KMFLD0pvkdmclef90pkvms": {
+          "allowedModifiers": {
+            "mfsd09pdvkjmJIFE9DSOPJMmdscloie09": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 46,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/narzuta.jpg?alt=media&token=968308c4-86e6-4e7b-aa5d-03110a72be9c",
+          "isCustomPriced": false,
+          "name": "Narzuta duża",
+          "packing": {
+            "nklfdOJPISDFKnmdc9dfoijkvldn0rq9eikjdl": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 49
+        },
+        "N90ijkds809idjkwe90d": {
+          "allowedModifiers": {
+            "9IJKNdnms9ujoick": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 60,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/poduszkapuch.jpg?alt=media&token=9258e3db-e8e8-4f42-81de-22832889ad4c",
+          "isCustomPriced": false,
+          "name": "Poduszka puchowa mała",
+          "packing": {
+            "U9JIODAKLNnjdslmcjd80uoijn": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 35
+        },
+        "NJCOEIF9d039owjhe923": {
+          "allowedModifiers": {
+            "MKNDJWOIPDdcje30f903": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 13,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/dywan.jpg?alt=media&token=e9d8c858-4169-4b5f-b8d3-9c867b24bbe8",
+          "isCustomPriced": false,
+          "metricSystem": "m²",
+          "name": "Dywan",
+          "packing": {
+            "NOIWE903ijpfkme390": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 25
+        },
+        "NJDSK903ifkcnkcx390": {
+          "allowedModifiers": {
+            "snjosi230ND30NJKDnkdjlio309jmwdfnoi309": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 25,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/koc.jpg?alt=media&token=4b18026b-d589-4090-90f5-a806548cc15f",
+          "isCustomPriced": false,
+          "name": "Koc średni",
+          "packing": {
+            "JNncio390dckn390": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 35
+        },
+        "OJDanjkJ902DMWKSC093nce094834i90jmf3": {
+          "allowedModifiers": {
+            "nkjduoeif9I0OEUJIMWDKnksmdx3p09": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 24,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/koc.jpg?alt=media&token=4b18026b-d589-4090-90f5-a806548cc15f",
+          "isCustomPriced": false,
+          "name": "Koc duży",
+          "packing": {
+            "kdlmPIJE20ODJMSKDLmklcxeop390923ecnjkdl": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 49
+        },
+        "U8Ynjsdxcs90d8aoiugjkvz": {
+          "allowedModifiers": {
+            "9U0IDJKLh08ci9reifo8u9osjnjhfoadh": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 66,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/pokrowiec%20na%20materac.jpg?alt=media&token=83ca12a5-c0d7-48a4-abce-82077984d556",
+          "isCustomPriced": false,
+          "name": "Pokrowiec na materac podwójny",
+          "packing": {
+            "a90UIJODAKCLNSnlcmsadvo9bzif09": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 90
+        },
+        "U9FISJnacvs8d0eoghaudjnsvl": {
+          "allowedModifiers": {
+            "90UIDJSCJlnsd08Ojn0c98hois9u0wdoi": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 75,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/przes%CC%81cierad%C5%82o.jpg?alt=media&token=3b781252-6993-498e-88ad-d9b6fbeae413",
+          "isCustomPriced": false,
+          "name": "Prześcieradło",
+          "packing": {
+            "0v9dojBNCSH09A8OIbjkcsvh8d0avhou": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 7
+        },
+        "dfkmJDW930CKMcvnjdl9": {
+          "allowedModifiers": {
+            "kdmladjid290njslfkNKJCS239": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 27,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/ko%C5%82dra.jpg?alt=media&token=527da500-1317-4ad3-b1a9-273b9835e087",
+          "isCustomPriced": false,
+          "name": "Kołdra duża",
+          "packing": {
+            "MNDOI90ijkdmv093fnvdj": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 50
+        },
+        "fjknjk90JNKSCFnjdvke09jdv": {
+          "allowedModifiers": {
+            "nkjfdsj90JNCVJN9jidvncxjcl": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 30,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/ko%C5%82dra.jpg?alt=media&token=527da500-1317-4ad3-b1a9-273b9835e087",
+          "isCustomPriced": false,
+          "name": "Kołdra puchowa 200 x 200",
+          "packing": {
+            "njdk90IJKCMnkjcwe0dvnj": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 70
+        },
+        "gu87JHHBB97rdyvire3s764cvvujm": {
+          "allowedModifiers": {
+            "kshn726KDJXN974sjxyjsk": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 15,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/firana.jpg?alt=media&token=9e918745-0548-44b8-ba26-c5bb41a4a230",
+          "isCustomPriced": false,
+          "metricSystem": "m2",
+          "name": "Firana",
+          "packing": {
+            "jsh3484susNUSVUVWKA86329sIUhsn": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 6
+        },
+        "jKLMDEF90piokvmce0fipovk0349ipreokopjf4t9ijfkls": {
+          "allowedModifiers": {
+            "kjldfsc90okjvmcNKMSDF9ijk": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 47,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/narzuta.jpg?alt=media&token=968308c4-86e6-4e7b-aa5d-03110a72be9c",
+          "isCustomPriced": false,
+          "name": "Narzuta mała",
+          "packing": {
+            "nfdo909ijvknNMVD9njmv": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 35
+        },
+        "jdkn980NJKDS09nmcskeoe090jnk": {
+          "allowedModifiers": {
+            "njLDSO09IJDCMNnmdscow09jifskdl": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 32,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/ko%C5%82dra%20we%C5%82niana.jpg?alt=media&token=cf281120-7f8e-4bf3-b21a-c6bdb7ae8576",
+          "isCustomPriced": false,
+          "name": "Kołdra wełniana pojedyncza",
+          "packing": {
+            "jknjd9JIOSKNCMnmcjkwoifjnmkscj980ujiodvk": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 60
+        },
+        "ji9098HUOCN09vhJNCVS08ADu90dvo90u09y": {
+          "allowedModifiers": {
+            "9IJ9upicjskna90cvdjin": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 81,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/serwetka.jpg?alt=media&token=bc6d3333-1ce3-486a-8354-68fb2c972673",
+          "isCustomPriced": false,
+          "name": "Serwetka mała/bieżnik",
+          "packing": {
+            "90FJNV9uvijdncsd09gfoi": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 7
+        },
+        "jkds9E02SJKCmckef903dvjkln": {
+          "allowedModifiers": {
+            "dnsjaldawo90CSNKJ390NJamLASOJWOIDJMKSNXmksdsjl": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 26,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/koc.jpg?alt=media&token=4b18026b-d589-4090-90f5-a806548cc15f",
+          "isCustomPriced": false,
+          "name": "Koc mały",
+          "packing": {
+            "NJCSjcnioe90vjklnew90njk": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 20
+        },
+        "jkfo90NljkNJCSK90fewkcmloijdw0": {
+          "allowedModifiers": {
+            "NDIO90jimkdv90NKJSCFnmsc90vlndkj": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 29,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/ko%C5%82dra.jpg?alt=media&token=527da500-1317-4ad3-b1a9-273b9835e087",
+          "isCustomPriced": false,
+          "name": "Kołdra puchowa 160 x 200",
+          "packing": {
+            "ndjk9J0Dj90njb90rsJNCK09vn009J3": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 50
+        },
+        "km0IOJKSMkmncief90ijkvm": {
+          "allowedModifiers": {
+            "09POIJDVKMCajikmnc09ipokl": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 48,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/obrus%20duz%CC%87y.jpg?alt=media&token=3120a78d-e94c-435a-9978-e95eaccc9426",
+          "isCustomPriced": false,
+          "name": "Obrus duży",
+          "packing": {
+            "0iOPJKMSDXSmndfklmv": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 29
+        },
+        "kmds09IOJKSCMNnmncsk90wdfsipcjlk": {
+          "allowedModifiers": {
+            "m09IPOJKMDMnddjc9ijkdn": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 49,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/obrus%20ma%C5%82y.jpg?alt=media&token=763362e9-d994-49ff-951b-d4a5fba70bbb",
+          "isCustomPriced": false,
+          "name": "Obrus mały",
+          "packing": {
+            "d0siopkmfd0iokfdjmNMVDC0ipoklmdv34": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 20
+        },
+        "njkdsNWI90Dmdjfk09": {
+          "allowedModifiers": {
+            "njklefoi90knlfNDKLWO": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 28,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/ko%C5%82dra.jpg?alt=media&token=527da500-1317-4ad3-b1a9-273b9835e087",
+          "isCustomPriced": false,
+          "name": "Kołdra mała",
+          "packing": {
+            "isSelectedInitially": true,
+            "name": "Zafoliowanie",
+            "price": 0
+          },
+          "price": 30
+        },
+        "u8shjn0X98fhwoijnXCANJKS8WEAHODVhx08acsou": {
+          "allowedModifiers": {
+            "9SIJkndAhc90a8eovjd": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 76,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/przes%CC%81cierad%C5%82o.jpg?alt=media&token=3b781252-6993-498e-88ad-d9b6fbeae413",
+          "isCustomPriced": false,
+          "name": "Prześcieradło duże",
+          "packing": {
+            "v0iobjfkl9UVDIJOSLNjnacvsod890foi": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 12
+        },
+        "u90inDNC90WAFOIJNSLJnjxcs9u0": {
+          "allowedModifiers": {
+            "9JIKFCNM9jinkvdzh9epsidjdn": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 71,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/poszwakoldra.jpg?alt=media&token=d3a64023-61e8-4469-8a69-6085732d3bc3",
+          "isCustomPriced": false,
+          "name": "Poszwa na kołdrę duża",
+          "packing": {
+            "9DUIAJEFnadjclvoie8q": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 12
+        }
+      },
+      "name": "Dla Domu"
+    },
+    "Garderoba": {
+      "index": 1,
+      "items": {
+        "ASN232322ssxsd343": {
+          "IsCustomPriced": false,
+          "allowedModifiers": {
+            "GKJFKJ9220230ljkkjl12": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 10,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bolerko.jpg?alt=media&token=1f6babe1-dc4f-4e0f-a613-9960836a7b11",
+          "name": "Bolerko",
+          "packing": {
+            "4FDKLWWL23676767fdfd": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 23
+        },
+        "BJHOJMB904jmirfkvkl409jmgeosd905tujnvre234": {
+          "allowedModifiers": {
+            "54njbo5409gjmkdfBJKNAD90JFcnweoi049": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 88,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/spodnieKantke.jpg?alt=media&token=09233bed-cc52-43ce-b0e1-98067d79fd22",
+          "isCustomPriced": false,
+          "name": "Spodnie w kantkę",
+          "packing": {
+            "JNVR094JMFVSdnjqwoiw3049jr43mfc": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 24
+        },
+        "BVSNJ904o9jkslkfrCA": {
+          "allowedModifiers": {
+            "JNDSFJ9032RKIMnmdfkjel309": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 44,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/pkt_marynarka.jpg?alt=media&token=579aa162-3675-480f-b5c5-08465ddcc5dc",
+          "isCustomPriced": false,
+          "name": "Marynarka",
+          "packing": {
+            "DJNKSF90324jmf390": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 25
+        },
+        "CIOEJF9023ejkrmdkjowio9340ufwnKNDQE9FJNDcneow9132fdn": {
+          "allowedModifiers": {
+            "JNCK930RJjcnj309f9jkmqp29o": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 96,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/suknia%20wieczorowa.jpg?alt=media&token=620a5141-7070-4d54-93eb-470151db00c6",
+          "isCustomPriced": false,
+          "name": "Suknia wieczorowa",
+          "packing": {
+            "NJKSfnk409wfoijksNDJQW3mdn125K": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 50
+        },
+        "CMNM905902lklfk3q3": {
+          "allowedModifiers": {
+            "bmnKF90q2091edaskC": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 23,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/kamizelka.jpg?alt=media&token=91be2a4d-af4b-468d-868a-f5d74bfb45c9",
+          "isCustomPriced": false,
+          "name": "Kamizelka",
+          "packing": {
+            "nfkjg3423DDFM090": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 19
+        },
+        "CNJK902eikd290emNMC390kldc": {
+          "allowedModifiers": {
+            "JNFL902ikdle9d": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 105,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/tshirt.jpg?alt=media&token=d9c3732e-1d91-4a22-9495-fafc1594dd9d",
+          "isCustomPriced": false,
+          "name": "T-shirt/podkoszulek",
+          "packing": {
+            "NCJEWOJF903r9023RUJDK920e3i": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 9
+        },
+        "CVNJKDE93irokef90ieqdkm": {
+          "allowedModifiers": {
+            "DJNLSe29kdsdik": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 109,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/zakiet.jpg?alt=media&token=ab77b3a2-664b-4e81-a263-fc9457e288e2",
+          "isCustomPriced": false,
+          "name": "Żakiet",
+          "packing": {
+            "JNKCS0924ueidkmc90iefk": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 25
+        },
+        "D3434vkmgkgrele56": {
+          "allowedModifiers": {
+            "R4554543lkkl121D": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 9,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bluzka.jpg?alt=media&token=8fc08ca9-80e4-4f1b-9f97-12fcb0a4cf7d",
+          "isCustomPriced": false,
+          "name": "Bluzka",
+          "packing": {
+            "J3kslldksdlk2302": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 18
+        },
+        "DFF2323kllkj6676": {
+          "IsCustomPriced": false,
+          "allowedModifiers": {
+            "TKLlkkl588Asf": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 17,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/garnitr2cz.jpg?alt=media&token=52307bdd-065c-4e14-b89d-93dd47d647ea",
+          "name": "Garnitur 2 częściowy",
+          "packing": {
+            "lkLTLR5656767lkllk780": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 49
+        },
+        "DKLSDL2322lllkl7855vvS": {
+          "allowedModifiers": {
+            "GLKLK6464lkkl909": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 18,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/garnitr2cz.jpg?alt=media&token=52307bdd-065c-4e14-b89d-93dd47d647ea",
+          "isCustomPriced": false,
+          "name": "Garnitur 3 częściowy",
+          "packing": {
+            "klflkfg44545SAJJH9": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 59
+        },
+        "DSJNiqo3rjkmd39qjrmkeijo904t": {
+          "allowedModifiers": {
+            "jndasfIR3Q0ONCAndjasjq3iu": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 85,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/spodnieKrotkie.jpg?alt=media&token=5b8fbabe-4bd0-450b-9969-219f3f0d0704",
+          "isCustomPriced": false,
+          "name": "Spodnie krótkie",
+          "packing": {
+            "NVJ90832u4nmcwoi8430jjn": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 15
+        },
+        "FF454flgff3323AS": {
+          "allowedModifiers": {
+            "REaklsak12233SWL": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 8,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/polar.jpg?alt=media&token=81f865c7-6601-452f-bea9-079fb97c1aa7",
+          "isCustompriced": false,
+          "name": "Bluza polarowa",
+          "packing": {
+            "GFLK343fdflkfe121": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 19
+        },
+        "GFK034lmfksfgjl29kjl": {
+          "allowedModifiers": {
+            "NKDS3R0pokl390DN": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 37,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/poloDlugiRekaw.jpg?alt=media&token=284885b9-aa0d-461f-85b7-3dd22e84e411",
+          "isCustomPriced": false,
+          "name": "Koszula polo długi rękaw",
+          "packing": {
+            "NJS390Kmkld9090ko": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 12
+        },
+        "JNS904902lop0": {
+          "allowedModifiers": {
+            "KOFMLpop22klklDNSM": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 36,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/polo.jpg?alt=media&token=42ccfee7-4a41-4e9f-9f41-440a86a2e671",
+          "isCustomPriced": false,
+          "name": "Koszula polo krótki rękaw",
+          "packing": {
+            "NFKpoi3423lnm9": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 9.9
+        },
+        "KDFLS9kl00p34B": {
+          "allowedModifiers": {
+            "MNV443kll0Cz": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 21,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/gorsetwieczo.jpg?alt=media&token=b6fd2715-071f-47b7-8790-222675ee50f6",
+          "isCustomPriced": false,
+          "name": "Gorset ślubny/wieczorowy",
+          "packing": {
+            "TIOTplp654lklkWQ": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 69
+        },
+        "KSLMSA90209pl": {
+          "allowedModifiers": {
+            "FNJLP5443lpkold": {
+              "name": "Odplamiamianie",
+              "price": 7
+            }
+          },
+          "id": 34,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/koszula.jpg?alt=media&token=26069f73-b8ea-422f-b3aa-9bedbcb67ea4",
+          "isCustomPriced": false,
+          "name": "Koszula",
+          "packing": {
+            "NJKSD29090pok95": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 9.9
+        },
+        "LKFLK6467lklk0V": {
+          "allowedModifiers": {
+            "slk9002GKMpop78": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 20,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/gorset.jpg?alt=media&token=4cbf2756-72a9-4414-9711-35fd4130f4fd",
+          "isCustomPriced": false,
+          "name": "Gorset",
+          "packing": {
+            "VC3443lkpp33P": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 30
+        },
+        "LKGFLK22023lklk2lp": {
+          "IsCustomPriced": false,
+          "allowedModifiers": {
+            "lklWQWQ7756lkjl56": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 19,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/garniturdziec.jpg?alt=media&token=ca71a1a4-5288-4d15-bff3-7a3fd9dbda2d",
+          "name": "Garnitur dziecięcy",
+          "packing": {
+            "klfeklfdWQEQ6766lkko": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 39
+        },
+        "NJ9ekodlms309djncd": {
+          "allowedModifiers": {
+            "HJF904i3wjdkN2ljkeqs02q9": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 101,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/szlafrok.jpg?alt=media&token=b01f48c0-d66f-468c-a091-5d929838b726",
+          "isCustomPriced": false,
+          "name": "Szlafrok",
+          "packing": {
+            "NJXSAFIOi390rmdkc290e": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 19
+        },
+        "NJCDS9034ikmds3q09": {
+          "allowedModifiers": {
+            "NJF9302JMvdjskp483o": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 84,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/smoking.jpg?alt=media&token=b2b6f2b7-615d-4090-b988-4fbba46279b4",
+          "isCustomPriced": false,
+          "name": "Smoking/frak",
+          "packing": {
+            "BVCjioew049jfn23i": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 69
+        },
+        "NJKS320942mvmnklnoi44": {
+          "allowedModifiers": {
+            "aDJK3904KJl390njf": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 51,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/piz%CC%87ama.jpg?alt=media&token=d6b7d0e5-a39b-4283-a39e-add1a1b52ae7",
+          "isCustomPriced": false,
+          "name": "Piżama",
+          "packing": {
+            "VKHDF9034ivmlwkew": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 14
+        },
+        "NKS90q490LK0p": {
+          "allowedModifiers": {
+            "JDKSJ9209pollk2": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 6,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/stanik.jpg?alt=media&token=52f05858-5613-47ac-a6af-79203cadcd83",
+          "name": "Biustonosz",
+          "packing": {
+            "E43kllkdsadPKQE": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 19
+        },
+        "OIYJTMH92ei0rmfcl309jmfwkjnsal4982jmrfn": {
+          "allowedModifiers": {
+            "JNFEWI93i4rdkmq3o": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 89,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/spo%CC%81dnica.jpg?alt=media&token=f20dcb7a-df0e-42c3-9715-c8a15520d4ad",
+          "isCustomPriced": false,
+          "name": "Spódnica",
+          "packing": {
+            "NJ94IKnjfJISer094tj34omvif4039ojkwqp": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 23
+        },
+        "POUTIJKnd3j49frmndsv094jtmigrfkal3ir9nfjd": {
+          "allowedModifiers": {
+            "NVJKREOI09i3rjkd930rmfkd": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 91,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/spo%CC%81dnica%20wieczorowa.jpg?alt=media&token=ad0cf84c-9559-4d01-b3c5-240643bd5294",
+          "isCustomPriced": false,
+          "name": "Spódnica wieczorowa",
+          "packing": {
+            "NVKTOI093rjkimad03490jwfn128s": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 50
+        },
+        "SKL34657xccfe": {
+          "allowedModifiers": {
+            "SM323236s45g": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 7,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bluza.jpg?alt=media&token=b85fde8e-1b48-4995-a496-fc5603e7fe9d",
+          "isCustomPriced": false,
+          "name": "Bluza",
+          "packing": {
+            "gWE232KJLs32": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 19
+        },
+        "SVBN90kmf3p409jmfw0489u": {
+          "allowedModifiers": {
+            "NJD49I0njkfds409": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 83,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bokserki.jpg?alt=media&token=20995c52-7a3e-4c59-b133-43f3b8590116",
+          "isCustomPriced": false,
+          "name": "Slipy/bielizna",
+          "packing": {
+            "NJOIR09u3kjfw0943": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 5
+        },
+        "TOIEM309ikrweofsd32049tjnsvmfg": {
+          "allowedModifiers": {
+            "NJCEWOI39rkodmkls23o90": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 90,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/spo%CC%81dnica%20z%20podszewka%CC%A8.jpg?alt=media&token=8d8ab9a9-a0e8-4e04-b815-e6e427b085e6",
+          "isCustomPriced": false,
+          "name": "Spódnica z podszewką",
+          "packing": {
+            "NJOCFDEIO9304dkq33i9rfvjn322": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 30
+        },
+        "VFN930kmglw4jtN": {
+          "allowedModifiers": {
+            "DJNSK390kfdj90r39": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 82,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/skarpety.jpg?alt=media&token=138452b2-e7a7-4f74-a162-3fd03e0dce2d",
+          "isCustomPriced": false,
+          "name": "Skarpety",
+          "packing": {
+            "CVJN093mkkalmf31": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 5
+        },
+        "VMCN390rkmkd3190rjdkmfll3p2o89u9opokji09": {
+          "allowedModifiers": {
+            "NCVIOE2903idkmco3i9jr20wfmk": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 98,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/sweter.jpg?alt=media&token=3e1c241b-acde-4034-92af-d577e98b4a93",
+          "isCustomPriced": false,
+          "name": "Sweter",
+          "packing": {
+            "VNJEI9380RJMvnjdksv390223djk3": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 15
+        },
+        "WQIJOEWQ930rikmfewdsf094tkmwi": {
+          "allowedModifiers": {
+            "NVJFOIER90iur3jkwef0o394": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 93,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/sukienka%20czerwona.jpg?alt=media&token=2c1cfbb1-1c25-46f9-9001-145b3a8b6bbd",
+          "isCustomPriced": false,
+          "name": "Sukienka z podszewką",
+          "packing": {
+            "NJKEIO2Q90NKLw290j39r0iwjkdsc39": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 25
+        },
+        "Xi2jewk29EK2mlkdldk90ojkdwki20XWOji2o": {
+          "allowedModifiers": {
+            "NCMEIOjnkdcv0943gjioJRI903fnljk0": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 99,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/sweterDuzy.jpg?alt=media&token=06cb0e55-6468-444e-b7e9-967a93d4c21f",
+          "isCustomPriced": false,
+          "name": "Sweter duży",
+          "packing": {
+            "CNLE90i3roekdm9023RKMFE203kdcm": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 25
+        },
+        "aJNKDW0934IKFMKDpokd39009409njl2": {
+          "allowedModifiers": {
+            "NJKFD902jemq290jk": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 87,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/spodnie.jpg?alt=media&token=810e217b-a71a-42ae-bb3e-1f720254ee03",
+          "isCustomPriced": false,
+          "name": "Spodnie",
+          "packing": {
+            "JNSDASDLJ39IRO4KRMFCdnjqwo32rj4309gji903nfm": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 21
+        },
+        "ndkv930URJMIKDSmck3290ioj7u": {
+          "allowedModifiers": {
+            "KJNFWEIO9023ikqwdslq3i2930": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 92,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/sukienka.jpg?alt=media&token=c822f381-682f-471d-b771-24c9831aabc1",
+          "isCustomPriced": false,
+          "name": "Sukienka",
+          "packing": {
+            "NJFEI938u4jiredm3290rjqioriju4": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 24
+        }
+      },
+      "name": "Odzież"
+    },
+    "Garderoba_Wierzchnia": {
+      "index": 2,
+      "items": {
+        "IJOTjcio3049jrtfimoipj9jo87": {
+          "allowedModifiers": {
+            "NDIPWOjio3094efjio940": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 55,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/plaszczPuchowy.jpg?alt=media&token=5547547c-0ba6-42d7-b39b-ff5829f6b5c3",
+          "isCustomPriced": false,
+          "name": "Płaszcz puchowy",
+          "packing": {
+            "NSIOD9sdu03jiefo0493": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 60
+        },
+        "JNCSN93rioefdjk309": {
+          "allowedModifiers": {
+            "JIO29iedksj9203nkMS2ks": {
+              "name": "Odplamiane",
+              "price": 7
+            }
+          },
+          "id": 5,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bezrekawnikPuchowy.jpg?alt=media&token=e07b959c-46ec-45de-9f0d-66da5cb1f493",
+          "isCustomPriced": false,
+          "name": "Bezrękawnik puchowy",
+          "packing": {
+            "NJKXCSOIEQ90sie3jekdmc039": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 39
+        },
+        "JNDSnjcei90w9fijovcew094": {
+          "allowedModifiers": {
+            "NXIE0OmijsW930KSM3P9dnkcld309": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 86,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/spodnieNarciarskie.jpg?alt=media&token=e791413e-5252-469e-863d-9b84f03cca23",
+          "isCustomPriced": false,
+          "name": "Spodnie narciarskie",
+          "packing": {
+            "nNOID30DNSCKJnmkxlwo309": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 40
+        },
+        "JNKF9308RUIJkr039j2iofoo3409t": {
+          "allowedModifiers": {
+            "NXJ902eijdkcm390rjkeowfi": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 16,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/fotroSztuczne.jpg?alt=media&token=f90d23ec-3b21-4301-8390-8432baa9b5f6",
+          "isCustomPriced": false,
+          "name": "Futro sztuczne",
+          "packing": {
+            "NCMKJE902eijkwdsmc093ufjei": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 49
+        },
+        "JNKSAF90wie23oekjd": {
+          "allowedModifiers": {
+            "JNCWIFON329RJMFKDJ0jdiok093": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 4,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bezrekawnik.jpg?alt=media&token=c7db32c5-6f1b-4f2a-87e5-5b7cbe49a1d0",
+          "isCustomPriced": false,
+          "name": "Bezrękawnik",
+          "packing": {
+            "CNKSACOekdosjd390redkm": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 29
+        },
+        "MNVOITR90ei3jkredj0943jmwi": {
+          "allowedModifiers": {
+            "MSLKQOIJEmkd930r": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 53,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/plaszczWelniany.jpg?alt=media&token=80745fa8-cdd2-4146-b27e-c9bef47868f6",
+          "isCustomPriced": false,
+          "name": "Płaszcz wełniany",
+          "packing": {
+            "IKS390EJmksc0e94gfoijpw": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 45
+        },
+        "NDOIWEnklmsa9032rjmoiefw90876jhbv": {
+          "allowedModifiers": {
+            "NJDEOJIAjjnck094tu0jfiedksi": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 42,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/kurtkaPuchowaDziecieca.jpg?alt=media&token=b3755e8f-84fe-4e25-8e04-df29b8d7c948",
+          "isCustomPriced": false,
+          "name": "Kurtka dziecięca puchowa",
+          "packing": {
+            "NX0W3R9UJvjke094wKWEFIOnsj": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 35
+        },
+        "NJA90uiej3krnefdc0943": {
+          "allowedModifiers": {
+            "njsdeko9q0e34iojkredJDOI31DIJWSjdk390": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 33,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/kombinezon%20narciarski.jpg?alt=media&token=7736fda2-2381-409b-bea2-68f205abef87",
+          "isCustomPriced": false,
+          "name": "Kombinezon narciarski",
+          "packing": {
+            "NJDCEI90irjofkwen9304": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 7
+            }
+          },
+          "price": 70
+        },
+        "NJXKLCS90sueijdqwkno8jr39fwnekeqpoui4w8": {
+          "allowedModifiers": {
+            "DNJEFOIUEWAJa09qer3iojdfkmnc": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 39,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/kurtka.jpg?alt=media&token=400609c2-22a2-410d-884a-d04032390af3",
+          "isCustomPriced": false,
+          "name": "Kurtka",
+          "packing": {
+            "MK90IR3OEJKWFDM90iqeokwd0": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 35
+        },
+        "NKCJD93r0iojefklmd0934": {
+          "allowedModifiers": {
+            "JKNASWDOI9s0i2km3ed0394": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 40,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/kurtkaNarciarska.jpg?alt=media&token=ba2e20c0-b1a2-4495-bd19-d7817ba9b121",
+          "isCustomPriced": false,
+          "name": "Kurtka narciarska/membrana",
+          "packing": {
+            "NSOIWDQ903RUJIEFOW0jndvsj94": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 49
+        },
+        "NS3092knlmsx039riojp": {
+          "allowedModifiers": {
+            "CN390JIOma6ksc90394o": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 52,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/p%C5%82aszcz.jpg?alt=media&token=ecceed54-35d4-464b-b80a-7817c914ec59",
+          "isCustomPriced": false,
+          "name": "Płaszcz",
+          "packing": {
+            "NXIEWO90e3rmejdfk309": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 35
+        },
+        "NSKW9023ridfki0493": {
+          "allowedModifiers": {
+            "NCIE0Q9kmd039rjoii903r": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 43,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/kurtka%20puchowa.jpg?alt=media&token=3e529d6d-c237-489c-b6c9-6d0972e48f8a",
+          "isCustomPriced": false,
+          "name": "Kurtka puchowa",
+          "packing": {
+            "NIODE90e2jk3lcm0493": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 49
+        },
+        "OUNEF903UJEDFCNXnasaxmcqeo0489tgjri4p": {
+          "allowedModifiers": {
+            "OIJDWF9JNcnei049fji094fjwe2ilp9": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 41,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/kurtka%20dziecie%CC%A8ca.jpg?alt=media&token=b337b882-aee3-4780-bb16-4181e50f594f",
+          "isCustomPriced": false,
+          "name": "Kurtka dziecięca",
+          "packing": {
+            "jeNDF30FNOIEWKACLdajksiow03q9ji": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 25
+        },
+        "VNJE990jicke094utjwm": {
+          "allowedModifiers": {
+            "NJjonskw0i239djmk209njlk": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 54,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/plaszczDzieciecy.jpg?alt=media&token=2237465f-f5ca-46e8-b530-574ef2134348",
+          "isCustomPriced": false,
+          "name": "Płaszcz dziecięcy",
+          "packing": {
+            "NKCOIWd90ij3ofeklmdv409": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 25
+        }
+      },
+      "name": "Garderoba wierzchnia"
+    },
+    "Ubranie_Robocze": {
+      "index": 5,
+      "items": {
+        "90USDIJKA09suiJKMNXCS0D9VEG": {
+          "allowedModifiers": {
+            "9IDSJKMA9siufpejad9idso": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 97,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/sutanna.jpg?alt=media&token=ab1f5270-d1ca-4528-a102-3ce9a46a40d7",
+          "isCustomPriced": false,
+          "name": "Sutanna",
+          "packing": {
+            "I9OJSKMmkcsve90grijv": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 39
+        },
+        "90USJDKX9ucj09ufeiosd": {
+          "allowedModifiers": {
+            "9UISDJCM9ijcs0": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 3,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/alba.jpg?alt=media&token=8fbcd30c-dbac-4089-a0c4-b653e253da0c",
+          "isCustomPriced": false,
+          "name": "Alba",
+          "packing": {
+            "9USIjkNCDVO0RGIJcnsdiv0e9": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 25
+        },
+        "9IDJSKxacs09EFAJDIV9u0fwisdpj": {
+          "allowedModifiers": {
+            "9DWUIJSKMC90uwu9efid": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 94,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/sukienkaKomunijna.jpg?alt=media&token=251ce597-d129-484f-90ce-08f3e2bf7661",
+          "isCustomPriced": false,
+          "name": "Sukienka komunijna",
+          "packing": {
+            "9IDJSKCncd0ve9rguio": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 45
+        },
+        "9ISAJSKMc9s0duijsvkc": {
+          "allowedModifiers": {
+            "9U0DIJKnc0a9efuiodjv": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 14,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/fartuch.jpg?alt=media&token=26e5dc35-e0e8-4ff1-9174-bb3dbd2f9113",
+          "isCustomPriced": false,
+          "name": "Fartuch",
+          "packing": {
+            "9idj9hiojln9U0PIJJLOH8IU09u8oih": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 15
+        },
+        "9U0DWIJSKsmcsdiov8e0od": {
+          "allowedModifiers": {
+            "9UIDJSKMamnxcd08eijo": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 106,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/welon.jpg?alt=media&token=c4cf721d-0673-46d2-a9f8-d429ef9cceb8",
+          "isCustomCosted": false,
+          "name": "Welon",
+          "packing": {
+            "I9DPSJCncsidosegprsof940ptirgj": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 25
+        },
+        "9UDW0JC90ufeijsdv09ruehiot490twrigf": {
+          "allowedModifiers": {
+            "90iujsak90UAjciN8AJOAojndv": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 95,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/suknia%20s%CC%81lubna.jpg?alt=media&token=d71d37e1-cbb0-4b77-9da9-d0edb3f6b5ad",
+          "isCustomPriced": false,
+          "name": "Suknia ślubna",
+          "packing": {
+            "0U8OIJSKncs0id8osi": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 150
+        },
+        "9UFJCK90UJIO9wef9feu90": {
+          "allowedModifiers": {
+            "9UDIJSKNnlkcife09iad": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 45,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/mundur.jpg?alt=media&token=f88c41e6-c677-4881-923f-93635fd07d79",
+          "isCustomPriced": false,
+          "name": "Mundur",
+          "packing": {
+            "90UDIJSCSKMadjcniSADVEG90FD089UEsdhcvd90": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 50
+        },
+        "I9jamKXDAS9D0FAEIOUJKDVnsdcsjdv09rego8if": {
+          "allowedModifiers": {
+            "9UPIJDKMdics0dea9dijv": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 107,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/zabawka.jpg?alt=media&token=6381e0e4-f08b-4708-8cbd-699be5dd6e23",
+          "isCustomPriced": false,
+          "name": "Zabawka pluszowa",
+          "packing": {
+            "a90upidjskn9DH0HIDOFSJNLjadsoe90": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 10
+        },
+        "U9JDIm90egouijnksg80rosufu8idoa": {
+          "allowedModifiers": {
+            "9isdajknSDA09sojiclnXCS": {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          },
+          "id": 104,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/toga.jpg?alt=media&token=7fb84229-1c6c-4b29-afbf-c71c99b55e50",
+          "isCustomPriced": false,
+          "name": "Toga",
+          "packing": {
+            "9IPDOJKmkcpsd9eaijdk": {
+              "isSelectedInitially": true,
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          },
+          "price": 39
+        }
+      },
+      "name": "Inne"
+    }
+  },
+  "classFields": {
+    "XtVJkoqKfPgCXJJaSL0k9YQGFdf2": {
+      "date": 1551312000,
+      "image": "https://www.sibleysonscilly.co.uk/Content/themes/sibleys/Images/laundry-washing-line.jpg",
+      "title": "5 koszul + 1 gratis"
+    },
+    "XtVJkoqKfPgCXJJaSL0k9YQGFdf4": {
+      "date": 1551312000,
+      "image": "https://www.sibleysonscilly.co.uk/Content/themes/sibleys/Images/laundry-washing-line.jpg",
+      "title": "darmowa dostawa bez kwoty minimalnej"
+    }
+  },
+  "orders": {
+    "01e47b30-25d3-462e-ba38-21ff15840f3a": {
+      "additionalNotes": "Miłego dnia dla całego zespołu Ciocia Renia App!\nZdrowia szczęścia i pomyślności kochani :D",
+      "creationTimestamp": 1559159426248,
+      "deliveryAddress": {
+        "apartmentNumber": "19/29",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-279",
+        "streetAndHouseNumber": "Krowoderskich Zuchów "
+      },
+      "deliveryDate": {
+        "date": 1559520000000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "items": [
+        {
+          "id": 4,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bezrekawnik.jpg?alt=media&token=c7db32c5-6f1b-4f2a-87e5-5b7cbe49a1d0",
+          "initialPrice": 29,
+          "name": "Bezrękawnik",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 8,
+          "uuid": "0135ede4-7501-4568-9182-a321caa5ff7a"
+        }
+      ],
+      "orderUUID": "01e47b30-25d3-462e-ba38-21ff15840f3a",
+      "orderingUser": {
+        "name": "Kacper",
+        "phoneNumber": "884870821",
+        "surname": "Wygoda",
+        "userUuid": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "19/29",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-279",
+        "streetAndHouseNumber": "Krowoderskich Zuchów "
+      },
+      "receptionDate": {
+        "date": 1559174400000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "status": "onTheWayTo",
+      "userUUID": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+    },
+    "0e0d32fc-ea4d-40b9-90ee-3aa3ef907b9c": {
+      "additionalNotes": "",
+      "creationTimestamp": 1559853856247,
+      "deliveryAddress": {
+        "apartmentNumber": "19/29",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-279",
+        "streetAndHouseNumber": "Krowoderskich Zuchów "
+      },
+      "deliveryDate": {
+        "date": 1560124800000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "items": [
+        {
+          "id": 4,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bezrekawnik.jpg?alt=media&token=c7db32c5-6f1b-4f2a-87e5-5b7cbe49a1d0",
+          "initialPrice": 29,
+          "modifiers": [
+            {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          ],
+          "name": "Bezrękawnik",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 1,
+          "uuid": "e25bb115-32b5-4c97-a910-04cf4d5298bf"
+        },
+        {
+          "id": 8,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/polar.jpg?alt=media&token=81f865c7-6601-452f-bea9-079fb97c1aa7",
+          "initialPrice": 19,
+          "modifiers": [
+            {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          ],
+          "name": "Bluza polarowa",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 4,
+          "uuid": "7440cd9a-1aa1-4474-9320-9e8137a5369e"
+        }
+      ],
+      "orderUUID": "0e0d32fc-ea4d-40b9-90ee-3aa3ef907b9c",
+      "orderingUser": {
+        "name": "Kacper",
+        "phoneNumber": "884870821",
+        "surname": "Wygoda",
+        "userUuid": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "19/29",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-279",
+        "streetAndHouseNumber": "Krowoderskich Zuchów "
+      },
+      "receptionDate": {
+        "date": 1559865600000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "status": "inLaundry",
+      "userUUID": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+    },
+    "0e8cd730-4879-443b-b92c-31024ff51b2d": {
+      "additionalNotes": "",
+      "creationTimestamp": 1559085456463,
+      "deliveryAddress": {
+        "apartmentNumber": "35",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-236",
+        "streetAndHouseNumber": "Bdyxg"
+      },
+      "deliveryDate": {
+        "date": 1559779200000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "items": [
+        {
+          "id": 67,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/poszetka.jpg?alt=media&token=fb0223a3-29ee-4826-8d18-3b6336fcfe7a",
+          "initialPrice": 12,
+          "name": "Poszetka",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 7,
+          "uuid": "9ae02fd2-f4f2-4627-a47a-f699a5b506bf"
+        }
+      ],
+      "orderUUID": "0e8cd730-4879-443b-b92c-31024ff51b2d",
+      "orderingUser": {
+        "name": "Mateusz",
+        "phoneNumber": "661990921",
+        "surname": "Data",
+        "userUuid": "eU0cfD06cgegQpP2C1EPNb3Y1zH3"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "35",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-236",
+        "streetAndHouseNumber": "Bdyxg"
+      },
+      "receptionDate": {
+        "date": 1559174400000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "status": "waitingForConfirmation",
+      "userUUID": "eU0cfD06cgegQpP2C1EPNb3Y1zH3"
+    },
+    "12e36e29-b955-4d87-a95d-cee47ef5f839": {
+      "additionalNotes": "",
+      "creationTimestamp": 1558976707437,
+      "deliveryAddress": {
+        "apartmentNumber": "19/29",
+        "city": "Kraków",
+        "gatePin": "319",
+        "postCode": "32-091",
+        "streetAndHouseNumber": "Krakowska 220"
+      },
+      "deliveryDate": {
+        "date": 1559174400000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "items": [
+        {
+          "id": 5,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bezrekawnikPuchowy.jpg?alt=media&token=e07b959c-46ec-45de-9f0d-66da5cb1f493",
+          "initialPrice": 39,
+          "name": "Bezrękawnik puchowy",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 3,
+          "uuid": "2df7ed84-7be9-4c39-86fd-0d4e62f217d3"
+        }
+      ],
+      "orderUUID": "12e36e29-b955-4d87-a95d-cee47ef5f839",
+      "orderingUser": {
+        "name": "Kacper",
+        "phoneNumber": "884870821",
+        "surname": "Wygoda",
+        "userUuid": "GPsJeE9dVMeC5yXiOR4CNrxcaRD3"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "19/29",
+        "city": "Kraków",
+        "gatePin": "319",
+        "postCode": "32-091",
+        "streetAndHouseNumber": "Krakowska 220"
+      },
+      "receptionDate": {
+        "date": 1559001600000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "status": "waitingForConfirmation",
+      "userUUID": "GPsJeE9dVMeC5yXiOR4CNrxcaRD3"
+    },
+    "2d466a0f-78f6-4920-8732-d63ab90f4968": {
+      "additionalNotes": "",
+      "creationTimestamp": 1558995953764,
+      "deliveryAddress": {
+        "apartmentNumber": "",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "32-091",
+        "streetAndHouseNumber": "Krakowska 220"
+      },
+      "deliveryDate": {
+        "date": 1559260800000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "items": [
+        {
+          "id": 12,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/czapka.jpg?alt=media&token=3041aa43-24be-429b-b88b-038a4aa39361",
+          "initialPrice": 15,
+          "name": "Czapka",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 6,
+          "uuid": "b3013cf4-a6e8-48c0-84d6-2e3d0da97753"
+        }
+      ],
+      "orderUUID": "2d466a0f-78f6-4920-8732-d63ab90f4968",
+      "orderingUser": {
+        "name": "Kacper",
+        "phoneNumber": "884870821",
+        "surname": "Wygoda",
+        "userUuid": "Edjjo6vYyRgmT6ZYeV0BR1WfGNw2"
+      },
+      "promoCode": {
+        "amount": 20,
+        "code": "4EIKDF9U",
+        "type": "value-recommendation",
+        "uuid": "ac90a742-9027-490d-a92f-2d9748db0bd1"
+      },
+      "receptionAddress": {
+        "apartmentNumber": "",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "32-091",
+        "streetAndHouseNumber": "Krakowska 220"
+      },
+      "receptionDate": {
+        "date": 1559088000000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "status": "canceled",
+      "userUUID": "Edjjo6vYyRgmT6ZYeV0BR1WfGNw2"
+    },
+    "2dbebeff-5824-48da-b469-87333b29a616": {
+      "additionalNotes": "Pocałować żabcie w łapcie\n",
+      "creationTimestamp": 1559273881599,
+      "deliveryAddress": {
+        "apartmentNumber": "",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-756",
+        "streetAndHouseNumber": "Krakowska 2"
+      },
+      "deliveryDate": {
+        "date": 1559779200000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "items": [
+        {
+          "id": 38,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/krawat.jpg?alt=media&token=29d00374-0f89-4756-a05c-b99981e7c505",
+          "initialPrice": 15,
+          "name": "Krawat",
+          "quantity": 2,
+          "uuid": "a685205b-af59-4845-9710-207c6dcab25e"
+        },
+        {
+          "id": 4,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bezrekawnik.jpg?alt=media&token=c7db32c5-6f1b-4f2a-87e5-5b7cbe49a1d0",
+          "initialPrice": 29,
+          "name": "Bezrękawnik",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 1,
+          "uuid": "28f7acb7-f38f-4b91-b044-b0068a6b5a7d"
+        },
+        {
+          "id": 40,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/kurtkaNarciarska.jpg?alt=media&token=ba2e20c0-b1a2-4495-bd19-d7817ba9b121",
+          "initialPrice": 49,
+          "name": "Kurtka narciarska/membrana",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 3,
+          "uuid": "d087082f-6263-4a8a-8876-699899ebae79"
+        }
+      ],
+      "orderUUID": "2dbebeff-5824-48da-b469-87333b29a616",
+      "orderingUser": {
+        "name": "Marcin",
+        "phoneNumber": "508274045",
+        "surname": "Data",
+        "userUuid": "kgpaJAGKGwcxK1T2XwmxRi1joWR2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "7",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-831",
+        "streetAndHouseNumber": "Fatimska 18"
+      },
+      "receptionDate": {
+        "date": 1559520000000,
+        "timeInterval": {
+          "endingTime": "20:00",
+          "startingTime": "16:00"
+        }
+      },
+      "status": "waitingForConfirmation",
+      "userUUID": "kgpaJAGKGwcxK1T2XwmxRi1joWR2"
+    },
+    "2f111b2d-4369-4b7e-b9d9-77b7ccabad1a": {
+      "additionalNotes": "",
+      "creationTimestamp": 1559201671800,
+      "deliveryAddress": {
+        "apartmentNumber": "7",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-831",
+        "streetAndHouseNumber": "Fatimska 18"
+      },
+      "deliveryDate": {
+        "date": 1559606400000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "items": [
+        {
+          "id": 8,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/polar.jpg?alt=media&token=81f865c7-6601-452f-bea9-079fb97c1aa7",
+          "initialPrice": 19,
+          "name": "Bluza polarowa",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 6,
+          "uuid": "06990ac2-3eb7-4355-83f3-40086a142d54"
+        }
+      ],
+      "orderUUID": "2f111b2d-4369-4b7e-b9d9-77b7ccabad1a",
+      "orderingUser": {
+        "name": "Marcin",
+        "phoneNumber": "508274045",
+        "surname": "Data",
+        "userUuid": "kgpaJAGKGwcxK1T2XwmxRi1joWR2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "7",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-831",
+        "streetAndHouseNumber": "Fatimska 18"
+      },
+      "receptionDate": {
+        "date": 1559260800000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "status": "finalized",
+      "userUUID": "kgpaJAGKGwcxK1T2XwmxRi1joWR2"
+    },
+    "2f98e111-260f-4fb8-99f1-d69ca964db58": {
+      "additionalNotes": "",
+      "creationTimestamp": 1559323918253,
+      "deliveryAddress": {
+        "apartmentNumber": "19/29",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-279",
+        "streetAndHouseNumber": "Krowoderskich Zuchów "
+      },
+      "deliveryDate": {
+        "date": 1559692800000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "items": [
+        {
+          "id": 5,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bezrekawnikPuchowy.jpg?alt=media&token=e07b959c-46ec-45de-9f0d-66da5cb1f493",
+          "initialPrice": 39,
+          "name": "Bezrękawnik puchowy",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 3,
+          "uuid": "c3a7dba1-d408-44fc-862f-6578b0553001"
+        }
+      ],
+      "orderUUID": "2f98e111-260f-4fb8-99f1-d69ca964db58",
+      "orderingUser": {
+        "name": "Kacper",
+        "phoneNumber": "884870821",
+        "surname": "Wygoda",
+        "userUuid": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "19/29",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-279",
+        "streetAndHouseNumber": "Krowoderskich Zuchów "
+      },
+      "receptionDate": {
+        "date": 1559520000000,
+        "timeInterval": {
+          "endingTime": "20:00",
+          "startingTime": "16:00"
+        }
+      },
+      "status": "finalized",
+      "userUUID": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+    },
+    "35cbbe93-6752-4dcb-a914-3e1f0aa69122": {
+      "additionalNotes": "",
+      "creationTimestamp": 1558982631321,
+      "deliveryAddress": {
+        "apartmentNumber": "19/29",
+        "city": "Kraków",
+        "gatePin": "319",
+        "postCode": "32-091",
+        "streetAndHouseNumber": "Krakowska 220"
+      },
+      "deliveryDate": {
+        "date": 1559174400000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "items": [
+        {
+          "id": 12,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/czapka.jpg?alt=media&token=3041aa43-24be-429b-b88b-038a4aa39361",
+          "initialPrice": 15,
+          "name": "Czapka",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 3,
+          "uuid": "2523c101-be95-4fbe-8b25-f82d09b7b14c"
+        }
+      ],
+      "orderUUID": "35cbbe93-6752-4dcb-a914-3e1f0aa69122",
+      "orderingUser": {
+        "name": "Kacper",
+        "phoneNumber": "884870821",
+        "surname": "Wygoda",
+        "userUuid": "GPsJeE9dVMeC5yXiOR4CNrxcaRD3"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "19/29",
+        "city": "Kraków",
+        "gatePin": "319",
+        "postCode": "32-091",
+        "streetAndHouseNumber": "Krakowska 220"
+      },
+      "receptionDate": {
+        "date": 1559001600000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "status": "waitingForConfirmation",
+      "userUUID": "GPsJeE9dVMeC5yXiOR4CNrxcaRD3"
+    },
+    "3e13e058-76f6-4aa9-9d3a-f0ec0f671a86": {
+      "additionalNotes": "",
+      "creationTimestamp": 1559937883189,
+      "deliveryAddress": {
+        "apartmentNumber": "",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "",
+        "streetAndHouseNumber": ""
+      },
+      "deliveryDate": {
+        "date": 1560384000000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "items": [
+        {
+          "id": 4,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bezrekawnik.jpg?alt=media&token=c7db32c5-6f1b-4f2a-87e5-5b7cbe49a1d0",
+          "initialPrice": 29,
+          "name": "Bezrękawnik",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 5,
+          "uuid": "d100f169-106a-485e-9561-4d4e7855e1e9"
+        }
+      ],
+      "orderUUID": "3e13e058-76f6-4aa9-9d3a-f0ec0f671a86",
+      "orderingUser": {
+        "name": "Mateusz",
+        "phoneNumber": "661990921",
+        "surname": "Data",
+        "userUuid": "7W8s7vLEqPRnEGNvA5FXPxcumPX2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "1",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-261",
+        "streetAndHouseNumber": "Warszawska 203"
+      },
+      "receptionDate": {
+        "date": 1560211200000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "status": "waitingForConfirmation",
+      "userUUID": "7W8s7vLEqPRnEGNvA5FXPxcumPX2"
+    },
+    "470106d2-4546-4462-81b5-723207dd5a2f": {
+      "additionalNotes": "\n",
+      "creationTimestamp": 1559201070645,
+      "deliveryAddress": {
+        "apartmentNumber": "7",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-831",
+        "streetAndHouseNumber": "Fatimska 18"
+      },
+      "deliveryDate": {
+        "date": 1559779200000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "items": [
+        {
+          "id": 14,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/fartuch.jpg?alt=media&token=26e5dc35-e0e8-4ff1-9174-bb3dbd2f9113",
+          "initialPrice": 15,
+          "name": "Fartuch",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 5,
+          "uuid": "3e429603-c0e4-4aa0-b606-45ba27ca177a"
+        }
+      ],
+      "orderUUID": "470106d2-4546-4462-81b5-723207dd5a2f",
+      "orderingUser": {
+        "name": "Marcin",
+        "phoneNumber": "508274045",
+        "surname": "Data",
+        "userUuid": "kgpaJAGKGwcxK1T2XwmxRi1joWR2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "7",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-831",
+        "streetAndHouseNumber": "Fatimska 18"
+      },
+      "receptionDate": {
+        "date": 1559260800000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "status": "onTheWayTo",
+      "userUUID": "kgpaJAGKGwcxK1T2XwmxRi1joWR2"
+    },
+    "5454944b-0620-4503-9a1b-1ae2db2ceea2": {
+      "additionalNotes": "",
+      "creationTimestamp": 1559201568729,
+      "deliveryAddress": {
+        "apartmentNumber": "7",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-831",
+        "streetAndHouseNumber": "Fatimska 18"
+      },
+      "deliveryDate": {
+        "date": 1559865600000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "items": [
+        {
+          "id": 7,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bluza.jpg?alt=media&token=b85fde8e-1b48-4995-a496-fc5603e7fe9d",
+          "initialPrice": 19,
+          "name": "Bluza",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 17,
+          "uuid": "65b0ffd5-6ed7-405d-9e09-e4bc9a631817"
+        }
+      ],
+      "orderUUID": "5454944b-0620-4503-9a1b-1ae2db2ceea2",
+      "orderingUser": {
+        "name": "Marcin",
+        "phoneNumber": "508274045",
+        "surname": "Data",
+        "userUuid": "kgpaJAGKGwcxK1T2XwmxRi1joWR2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "7",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-831",
+        "streetAndHouseNumber": "Fatimska 18"
+      },
+      "receptionDate": {
+        "date": 1559260800000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "status": "finalized",
+      "userUUID": "kgpaJAGKGwcxK1T2XwmxRi1joWR2"
+    },
+    "5aa7c063-f9ca-4a44-9e45-bf4d21efb482": {
+      "additionalNotes": "",
+      "creationTimestamp": 1559937972146,
+      "deliveryAddress": {
+        "apartmentNumber": "1",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-261",
+        "streetAndHouseNumber": "Warszawska 203"
+      },
+      "deliveryDate": {
+        "date": 1560297600000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "items": [
+        {
+          "id": 5,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bezrekawnikPuchowy.jpg?alt=media&token=e07b959c-46ec-45de-9f0d-66da5cb1f493",
+          "initialPrice": 39,
+          "modifiers": [
+            {
+              "name": "Odplamiane",
+              "price": 7
+            }
+          ],
+          "name": "Bezrękawnik puchowy",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 3,
+          "uuid": "e3f4a803-b319-4295-8f34-5a00ea953894"
+        },
+        {
+          "id": 10,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bolerko.jpg?alt=media&token=1f6babe1-dc4f-4e0f-a613-9960836a7b11",
+          "initialPrice": 23,
+          "name": "Bolerko",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 1,
+          "uuid": "d17f54db-a184-400f-ada8-9e0826848045"
+        }
+      ],
+      "orderUUID": "5aa7c063-f9ca-4a44-9e45-bf4d21efb482",
+      "orderingUser": {
+        "name": "Mateusz",
+        "phoneNumber": "661990921",
+        "surname": "Data",
+        "userUuid": "7W8s7vLEqPRnEGNvA5FXPxcumPX2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "1",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-261",
+        "streetAndHouseNumber": "Warszawska 203"
+      },
+      "receptionDate": {
+        "date": 1560124800000,
+        "timeInterval": {
+          "endingTime": "20:00",
+          "startingTime": "16:00"
+        }
+      },
+      "status": "canceled",
+      "userUUID": "7W8s7vLEqPRnEGNvA5FXPxcumPX2"
+    },
+    "5ce32a57-d125-4a65-b352-5c60d94b4722": {
+      "additionalNotes": "DOTAKOWE INFO YOŁ",
+      "creationTimestamp": 1559305562239,
+      "deliveryAddress": {
+        "apartmentNumber": "",
+        "city": "Kraków",
+        "gatePin": "1234",
+        "postCode": "32-091",
+        "streetAndHouseNumber": "Krakowska 220"
+      },
+      "deliveryDate": {
+        "date": 1559692800000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "items": [
+        {
+          "id": 5,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bezrekawnikPuchowy.jpg?alt=media&token=e07b959c-46ec-45de-9f0d-66da5cb1f493",
+          "initialPrice": 39,
+          "name": "Bezrękawnik puchowy",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 3,
+          "uuid": "025a3e41-af10-4e66-89dc-9f1c734b2f4f"
+        }
+      ],
+      "orderUUID": "5ce32a57-d125-4a65-b352-5c60d94b4722",
+      "orderingUser": {
+        "name": "Kacper",
+        "phoneNumber": "884870821",
+        "surname": "Wygoda",
+        "userUuid": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "19/29",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-279",
+        "streetAndHouseNumber": "Krowoderskich Zuchów "
+      },
+      "receptionDate": {
+        "date": 1559520000000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "status": "finalized",
+      "userUUID": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+    },
+    "665c0531-8253-42a7-8097-3db3eb185bcd": {
+      "additionalNotes": "",
+      "creationTimestamp": 1559422604759,
+      "deliveryAddress": {
+        "apartmentNumber": "87",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "30-023",
+        "streetAndHouseNumber": "Stolarska 2"
+      },
+      "deliveryDate": {
+        "date": 1559865600000,
+        "timeInterval": {
+          "endingTime": "20:00",
+          "startingTime": "16:00"
+        }
+      },
+      "items": [
+        {
+          "id": 4,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bezrekawnik.jpg?alt=media&token=c7db32c5-6f1b-4f2a-87e5-5b7cbe49a1d0",
+          "initialPrice": 29,
+          "name": "Bezrękawnik",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 1,
+          "uuid": "41008f43-08b9-4d33-8ed2-bc50068d1297"
+        },
+        {
+          "id": 44,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/pkt_marynarka.jpg?alt=media&token=579aa162-3675-480f-b5c5-08465ddcc5dc",
+          "initialPrice": 25,
+          "name": "Marynarka",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 1,
+          "uuid": "04c1464f-f5eb-4e36-9efc-c35955348927"
+        },
+        {
+          "id": 87,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/spodnie.jpg?alt=media&token=810e217b-a71a-42ae-bb3e-1f720254ee03",
+          "initialPrice": 21,
+          "name": "Spodnie",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 1,
+          "uuid": "f10f6bfd-7cf5-45aa-80b4-0d93f14347a3"
+        }
+      ],
+      "orderUUID": "665c0531-8253-42a7-8097-3db3eb185bcd",
+      "orderingUser": {
+        "name": "Mateusz",
+        "phoneNumber": "661990921",
+        "surname": "Data",
+        "userUuid": "eU0cfD06cgegQpP2C1EPNb3Y1zH3"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "87",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "30-023",
+        "streetAndHouseNumber": "Stolarska 2"
+      },
+      "receptionDate": {
+        "date": 1559692800000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "status": "waitingForConfirmation",
+      "userUUID": "eU0cfD06cgegQpP2C1EPNb3Y1zH3"
+    },
+    "6682712f-3c65-4368-9ae5-876b7bdedb9b": {
+      "additionalNotes": "",
+      "creationTimestamp": 1560193506738,
+      "deliveryAddress": {
+        "apartmentNumber": "1",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-261",
+        "streetAndHouseNumber": "Warszawska 203"
+      },
+      "deliveryDate": {
+        "date": 1561593600000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "items": [
+        {
+          "id": 8,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/polar.jpg?alt=media&token=81f865c7-6601-452f-bea9-079fb97c1aa7",
+          "initialPrice": 19,
+          "name": "Bluza polarowa",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 6,
+          "uuid": "ab4a6610-df9c-4886-a810-e247668b5673"
+        }
+      ],
+      "orderUUID": "6682712f-3c65-4368-9ae5-876b7bdedb9b",
+      "orderingUser": {
+        "name": "Mateusz",
+        "phoneNumber": "661990921",
+        "surname": "Data",
+        "userUuid": "7W8s7vLEqPRnEGNvA5FXPxcumPX2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "1",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-261",
+        "streetAndHouseNumber": "Warszawska 203"
+      },
+      "receptionDate": {
+        "date": 1561075200000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "status": "waitingForConfirmation",
+      "userUUID": "7W8s7vLEqPRnEGNvA5FXPxcumPX2"
+    },
+    "6b038a58-dbc6-453a-82d8-b99f8180fcf4": {
+      "additionalNotes": "",
+      "creationTimestamp": 1560184151058,
+      "deliveryAddress": {
+        "apartmentNumber": "",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-261",
+        "streetAndHouseNumber": "Ram pam pam 12"
+      },
+      "deliveryDate": {
+        "date": 1560470400000,
+        "timeInterval": {
+          "endingTime": "20:00",
+          "startingTime": "16:00"
+        }
+      },
+      "items": [
+        {
+          "id": 5,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bezrekawnikPuchowy.jpg?alt=media&token=e07b959c-46ec-45de-9f0d-66da5cb1f493",
+          "initialPrice": 39,
+          "modifiers": [
+            {
+              "name": "Odplamiane",
+              "price": 7
+            }
+          ],
+          "name": "Bezrękawnik puchowy",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 3,
+          "uuid": "f1c70e70-c800-436e-afdf-bbf4337f0aed"
+        }
+      ],
+      "orderUUID": "6b038a58-dbc6-453a-82d8-b99f8180fcf4",
+      "orderingUser": {
+        "name": "Mateusz",
+        "phoneNumber": "661990921",
+        "surname": "Data",
+        "userUuid": "7W8s7vLEqPRnEGNvA5FXPxcumPX2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-261",
+        "streetAndHouseNumber": "Ram pam pam 12"
+      },
+      "receptionDate": {
+        "date": 1560297600000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "status": "finalized",
+      "userUUID": "7W8s7vLEqPRnEGNvA5FXPxcumPX2"
+    },
+    "715e4285-7efb-41de-ab53-3a210db6b204": {
+      "additionalNotes": "",
+      "creationTimestamp": 1559594175392,
+      "deliveryAddress": {
+        "apartmentNumber": "19/29",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-279",
+        "streetAndHouseNumber": "Krowoderskich Zuchów "
+      },
+      "deliveryDate": {
+        "date": 1559779200000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "items": [
+        {
+          "id": 9,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bluzka.jpg?alt=media&token=8fc08ca9-80e4-4f1b-9f97-12fcb0a4cf7d",
+          "initialPrice": 18,
+          "name": "Bluzka",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 5,
+          "uuid": "f5e35530-957f-4824-8732-fce8e54b639b"
+        }
+      ],
+      "orderUUID": "715e4285-7efb-41de-ab53-3a210db6b204",
+      "orderingUser": {
+        "name": "Kacper",
+        "phoneNumber": "884870821",
+        "surname": "Wygoda",
+        "userUuid": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "19/29",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-279",
+        "streetAndHouseNumber": "Krowoderskich Zuchów "
+      },
+      "receptionDate": {
+        "date": 1559606400000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "status": "finalized",
+      "userUUID": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+    },
+    "9021a694-4518-42e3-a67f-39bd43d853e1": {
+      "additionalNotes": "",
+      "creationTimestamp": 1559661399865,
+      "deliveryAddress": {
+        "apartmentNumber": "12/112",
+        "city": "Kraków",
+        "gatePin": "997",
+        "postCode": "31-998",
+        "streetAndHouseNumber": "Krakowska 112"
+      },
+      "deliveryDate": {
+        "date": 1560384000000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "items": [
+        {
+          "id": 3,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/alba.jpg?alt=media&token=8fbcd30c-dbac-4089-a0c4-b653e253da0c",
+          "initialPrice": 25,
+          "name": "Alba",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 5,
+          "uuid": "8e520231-c06c-49a9-b751-256d9a6781bf"
+        }
+      ],
+      "orderUUID": "9021a694-4518-42e3-a67f-39bd43d853e1",
+      "orderingUser": {
+        "name": "Kacper",
+        "phoneNumber": "884870821",
+        "surname": "Wygoda",
+        "userUuid": "XtVJkoqKfPgCXJJaSL0k9YQGFdf2"
+      },
+      "promoCode": {
+        "amount": 20,
+        "code": "Q2Y15IK8",
+        "type": "value-recommendation",
+        "uuid": "1e8348ee-90ad-4749-8fb6-60be07e20086"
+      },
+      "receptionAddress": {
+        "apartmentNumber": "12/112",
+        "city": "Kraków",
+        "gatePin": "997",
+        "postCode": "31-998",
+        "streetAndHouseNumber": "Krakowska 112"
+      },
+      "receptionDate": {
+        "date": 1560211200000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "status": "waitingForConfirmation",
+      "userUUID": "XtVJkoqKfPgCXJJaSL0k9YQGFdf2"
+    },
+    "9458cb26-7117-4e4c-86cd-beef7c4215de": {
+      "additionalNotes": "",
+      "creationTimestamp": 1559083976201,
+      "deliveryAddress": {
+        "apartmentNumber": "",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "32-091",
+        "streetAndHouseNumber": "Graniczna 220"
+      },
+      "deliveryDate": {
+        "date": 1559520000000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "items": [
+        {
+          "id": 11,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/chustaSzal.jpg?alt=media&token=6f04f60c-95eb-49b9-be45-3d5d7c2429c9",
+          "initialPrice": 21,
+          "modifiers": [
+            {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          ],
+          "name": "Chustka/apaszka/szal",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 5,
+          "uuid": "bb648668-735a-4912-a6be-7508ec71cfba"
+        }
+      ],
+      "orderUUID": "9458cb26-7117-4e4c-86cd-beef7c4215de",
+      "orderingUser": {
+        "name": "Kacper",
+        "phoneNumber": "884870821",
+        "surname": "Wygoda",
+        "userUuid": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "32-091",
+        "streetAndHouseNumber": "Graniczna 220"
+      },
+      "receptionDate": {
+        "date": 1559174400000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "status": "canceled",
+      "userUUID": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+    },
+    "94d8e2da-2f02-4786-b594-b64d49604eac": {
+      "additionalNotes": "",
+      "creationTimestamp": 1559992624263,
+      "deliveryAddress": {
+        "apartmentNumber": "1",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-261",
+        "streetAndHouseNumber": "Warszawska 203"
+      },
+      "deliveryDate": {
+        "date": 1560988800000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "items": [
+        {
+          "id": 4,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bezrekawnik.jpg?alt=media&token=c7db32c5-6f1b-4f2a-87e5-5b7cbe49a1d0",
+          "initialPrice": 29,
+          "name": "Bezrękawnik",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 5,
+          "uuid": "f325cacf-c4eb-40cf-aee5-06e7c9286637"
+        }
+      ],
+      "orderUUID": "94d8e2da-2f02-4786-b594-b64d49604eac",
+      "orderingUser": {
+        "name": "Mateusz",
+        "phoneNumber": "661990921",
+        "surname": "Data",
+        "userUuid": "7W8s7vLEqPRnEGNvA5FXPxcumPX2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "1",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-261",
+        "streetAndHouseNumber": "Warszawska 203"
+      },
+      "receptionDate": {
+        "date": 1560384000000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "status": "canceled",
+      "userUUID": "7W8s7vLEqPRnEGNvA5FXPxcumPX2"
+    },
+    "95453a1e-53a5-4323-9034-f2ee42f28701": {
+      "additionalNotes": "",
+      "creationTimestamp": 1559819611337,
+      "deliveryAddress": {
+        "apartmentNumber": "41",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "30-324",
+        "streetAndHouseNumber": "Rostworowskiego 11"
+      },
+      "deliveryDate": {
+        "date": 1560124800000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "items": [
+        {
+          "id": 34,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/koszula.jpg?alt=media&token=26069f73-b8ea-422f-b3aa-9bedbcb67ea4",
+          "initialPrice": 9.9,
+          "modifiers": [
+            {
+              "name": "Odplamiamianie",
+              "price": 7
+            }
+          ],
+          "name": "Koszula",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 5,
+          "uuid": "ac8f7112-d015-4bc0-af45-7a575e895980"
+        }
+      ],
+      "orderUUID": "95453a1e-53a5-4323-9034-f2ee42f28701",
+      "orderingUser": {
+        "name": "Kacper",
+        "phoneNumber": "884870821",
+        "surname": "Wygoda",
+        "userUuid": "XtVJkoqKfPgCXJJaSL0k9YQGFdf2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "41",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "30-324",
+        "streetAndHouseNumber": "Rostworowskiego 11"
+      },
+      "receptionDate": {
+        "date": 1559865600000,
+        "timeInterval": {
+          "endingTime": "20:00",
+          "startingTime": "16:00"
+        }
+      },
+      "status": "canceled",
+      "userUUID": "XtVJkoqKfPgCXJJaSL0k9YQGFdf2"
+    },
+    "9865a119-3ba4-4e64-b227-612d00571eeb": {
+      "additionalNotes": "",
+      "creationTimestamp": 1559078048012,
+      "deliveryAddress": {
+        "apartmentNumber": "",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "",
+        "streetAndHouseNumber": ""
+      },
+      "deliveryDate": {
+        "date": 1559260800000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "items": [
+        {
+          "id": 11,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/chustaSzal.jpg?alt=media&token=6f04f60c-95eb-49b9-be45-3d5d7c2429c9",
+          "initialPrice": 21,
+          "name": "Chustka/apaszka/szal",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 5,
+          "uuid": "fb059145-de6d-4c8f-91a0-5950488330b0"
+        }
+      ],
+      "orderUUID": "9865a119-3ba4-4e64-b227-612d00571eeb",
+      "orderingUser": {
+        "name": "Kacper",
+        "phoneNumber": "884870821",
+        "surname": "Wygoda",
+        "userUuid": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "32-091",
+        "streetAndHouseNumber": "Graniczna 220"
+      },
+      "receptionDate": {
+        "date": 1559088000000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "status": "canceled",
+      "userUUID": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+    },
+    "a6853326-fa39-4bc1-b551-e3c9f74bf402": {
+      "additionalNotes": "",
+      "creationTimestamp": 1559085718430,
+      "deliveryAddress": {
+        "apartmentNumber": "35",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-236",
+        "streetAndHouseNumber": "Bdyxg"
+      },
+      "deliveryDate": {
+        "date": 1559779200000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "items": [
+        {
+          "id": 100,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/szalik.jpg?alt=media&token=1fde5e49-ccb7-4bac-aa66-6380281fc569",
+          "initialPrice": 15,
+          "name": "Szalik",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 13,
+          "uuid": "f3feac1f-e198-4e7f-b19f-f5e55c08e514"
+        }
+      ],
+      "orderUUID": "a6853326-fa39-4bc1-b551-e3c9f74bf402",
+      "orderingUser": {
+        "name": "Mateusz",
+        "phoneNumber": "661990921",
+        "surname": "Data",
+        "userUuid": "eU0cfD06cgegQpP2C1EPNb3Y1zH3"
+      },
+      "promoCode": {
+        "amount": 150,
+        "code": "3OGTJABH",
+        "type": "value-recommendation",
+        "uuid": "e949e98c-fdb0-415b-a93c-f2d27f4293f3"
+      },
+      "receptionAddress": {
+        "apartmentNumber": "35",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-236",
+        "streetAndHouseNumber": "Bdyxg"
+      },
+      "receptionDate": {
+        "date": 1559174400000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "status": "inLaundry",
+      "userUUID": "eU0cfD06cgegQpP2C1EPNb3Y1zH3"
+    },
+    "b20b0815-aac8-41bf-89d5-01511e434d9f": {
+      "additionalNotes": "",
+      "creationTimestamp": 1559184213364,
+      "deliveryAddress": {
+        "apartmentNumber": "35",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-236",
+        "streetAndHouseNumber": "Bdyxg"
+      },
+      "deliveryDate": {
+        "date": 1559779200000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "items": [
+        {
+          "id": 8,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/polar.jpg?alt=media&token=81f865c7-6601-452f-bea9-079fb97c1aa7",
+          "initialPrice": 19,
+          "name": "Bluza polarowa",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 4,
+          "uuid": "f745962f-0e26-4adf-9b72-10b508e9f1dc"
+        }
+      ],
+      "orderUUID": "b20b0815-aac8-41bf-89d5-01511e434d9f",
+      "orderingUser": {
+        "name": "Mateusz",
+        "phoneNumber": "661990921",
+        "surname": "Data",
+        "userUuid": "eU0cfD06cgegQpP2C1EPNb3Y1zH3"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "35",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-236",
+        "streetAndHouseNumber": "Bdyxg"
+      },
+      "receptionDate": {
+        "date": 1559260800000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "status": "onTheWayTo",
+      "userUUID": "eU0cfD06cgegQpP2C1EPNb3Y1zH3"
+    },
+    "bb93e082-5539-4489-b950-4a20ef5e062e": {
+      "additionalNotes": "",
+      "creationTimestamp": 1559136182142,
+      "deliveryAddress": {
+        "apartmentNumber": "19/29",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-279",
+        "streetAndHouseNumber": "Krowoderskich Zuchów "
+      },
+      "deliveryDate": {
+        "date": 1559520000000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "items": [
+        {
+          "id": 5,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bezrekawnikPuchowy.jpg?alt=media&token=e07b959c-46ec-45de-9f0d-66da5cb1f493",
+          "initialPrice": 39,
+          "name": "Bezrękawnik puchowy",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 4,
+          "uuid": "6f4c67b3-9ff0-4dce-b88c-d3e201b55679"
+        }
+      ],
+      "orderUUID": "bb93e082-5539-4489-b950-4a20ef5e062e",
+      "orderingUser": {
+        "name": "Kacper",
+        "phoneNumber": "884870821",
+        "surname": "Wygoda",
+        "userUuid": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "19/29",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-279",
+        "streetAndHouseNumber": "Krowoderskich Zuchów "
+      },
+      "receptionDate": {
+        "date": 1559174400000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "status": "waitingForConfirmation",
+      "userUUID": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+    },
+    "c7d9b4e5-372b-4d63-9ff4-6f63ed01b7a0": {
+      "additionalNotes": "",
+      "creationTimestamp": 1559172793499,
+      "deliveryAddress": {
+        "apartmentNumber": "19/29",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-279",
+        "streetAndHouseNumber": "Krowoderskich Zuchów "
+      },
+      "deliveryDate": {
+        "date": 1559520000000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "items": [
+        {
+          "id": 3,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/alba.jpg?alt=media&token=8fbcd30c-dbac-4089-a0c4-b653e253da0c",
+          "initialPrice": 25,
+          "modifiers": [
+            {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          ],
+          "name": "Alba",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 1,
+          "uuid": "ace2cb6e-f47a-4030-82b2-37cc8f482114"
+        },
+        {
+          "id": 34,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/koszula.jpg?alt=media&token=26069f73-b8ea-422f-b3aa-9bedbcb67ea4",
+          "initialPrice": 9.9,
+          "modifiers": [
+            {
+              "name": "Odplamiamianie",
+              "price": 7
+            }
+          ],
+          "name": "Koszula",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 1,
+          "uuid": "bbe4a1a8-a9ba-41bd-be23-cf3322c33aad"
+        },
+        {
+          "id": 36,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/polo.jpg?alt=media&token=42ccfee7-4a41-4e9f-9f41-440a86a2e671",
+          "initialPrice": 9.9,
+          "modifiers": [
+            {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          ],
+          "name": "Koszula polo krótki rękaw",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 2,
+          "uuid": "04b60875-4eed-4157-b582-5fe1ce7dd760"
+        }
+      ],
+      "orderUUID": "c7d9b4e5-372b-4d63-9ff4-6f63ed01b7a0",
+      "orderingUser": {
+        "name": "Kacper",
+        "phoneNumber": "884870821",
+        "surname": "Wygoda",
+        "userUuid": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "19/29",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-279",
+        "streetAndHouseNumber": "Krowoderskich Zuchów "
+      },
+      "receptionDate": {
+        "date": 1559260800000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "status": "waitingForConfirmation",
+      "userUUID": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+    },
+    "caa60776-40bc-4f98-bbd3-cb8608bc260b": {
+      "additionalNotes": "",
+      "creationTimestamp": 1559202169424,
+      "deliveryAddress": {
+        "apartmentNumber": "7",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-831",
+        "streetAndHouseNumber": "Fatimska 18"
+      },
+      "deliveryDate": {
+        "date": 1560384000000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "items": [
+        {
+          "id": 5,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bezrekawnikPuchowy.jpg?alt=media&token=e07b959c-46ec-45de-9f0d-66da5cb1f493",
+          "initialPrice": 39,
+          "name": "Bezrękawnik puchowy",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 3,
+          "uuid": "613d088b-c76c-4e47-8718-3dede836de48"
+        }
+      ],
+      "orderUUID": "caa60776-40bc-4f98-bbd3-cb8608bc260b",
+      "orderingUser": {
+        "name": "Marcin",
+        "phoneNumber": "508274045",
+        "surname": "Data",
+        "userUuid": "kgpaJAGKGwcxK1T2XwmxRi1joWR2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "7",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-831",
+        "streetAndHouseNumber": "Fatimska 18"
+      },
+      "receptionDate": {
+        "date": 1559692800000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "status": "confirmed",
+      "userUUID": "kgpaJAGKGwcxK1T2XwmxRi1joWR2"
+    },
+    "d305dee3-02f8-4a9b-ba3c-3e1b5d78aaec": {
+      "additionalNotes": "YEPYEPYEPYEPYEPYEPYPEYPEYPEPYEPYPEYPEYPEPYPEPYEPYPYEPYEYYPEYYEPYEPYPEYPEYEPYEPYEPEYPYEPYPEYPEEPYEPYP",
+      "creationTimestamp": 1559159090760,
+      "deliveryAddress": {
+        "apartmentNumber": "19/29",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-279",
+        "streetAndHouseNumber": "Krowoderskich Zuchów "
+      },
+      "deliveryDate": {
+        "date": 1559520000000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "items": [
+        {
+          "id": 3,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/alba.jpg?alt=media&token=8fbcd30c-dbac-4089-a0c4-b653e253da0c",
+          "initialPrice": 25,
+          "name": "Alba",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 4,
+          "uuid": "8aa7d312-d91c-43d9-8761-a665138ee6d1"
+        },
+        {
+          "id": 4,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bezrekawnik.jpg?alt=media&token=c7db32c5-6f1b-4f2a-87e5-5b7cbe49a1d0",
+          "initialPrice": 29,
+          "name": "Bezrękawnik",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 2,
+          "uuid": "e5f6a3df-a751-4103-9728-62701bc98d9e"
+        }
+      ],
+      "orderUUID": "d305dee3-02f8-4a9b-ba3c-3e1b5d78aaec",
+      "orderingUser": {
+        "name": "Kacper",
+        "phoneNumber": "884870821",
+        "surname": "Wygoda",
+        "userUuid": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "19/29",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-279",
+        "streetAndHouseNumber": "Krowoderskich Zuchów "
+      },
+      "receptionDate": {
+        "date": 1559174400000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "status": "waitingForConfirmation",
+      "userUUID": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+    },
+    "db796f1e-da86-46d8-9a86-33c18d97825f": {
+      "additionalNotes": "YEAH LAAAAAADDDDD!",
+      "creationTimestamp": 1559157560281,
+      "deliveryAddress": {
+        "apartmentNumber": "19/29",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-279",
+        "streetAndHouseNumber": "Krowoderskich Zuchów "
+      },
+      "deliveryDate": {
+        "date": 1559520000000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "items": [
+        {
+          "id": 5,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bezrekawnikPuchowy.jpg?alt=media&token=e07b959c-46ec-45de-9f0d-66da5cb1f493",
+          "initialPrice": 39,
+          "name": "Bezrękawnik puchowy",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 3,
+          "uuid": "2035b884-3821-48e3-8bda-69ce0ad3fcc7"
+        }
+      ],
+      "orderUUID": "db796f1e-da86-46d8-9a86-33c18d97825f",
+      "orderingUser": {
+        "name": "Kacper",
+        "phoneNumber": "884870821",
+        "surname": "Wygoda",
+        "userUuid": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "19/29",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-279",
+        "streetAndHouseNumber": "Krowoderskich Zuchów "
+      },
+      "receptionDate": {
+        "date": 1559174400000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "status": "waitingForConfirmation",
+      "userUUID": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+    },
+    "e8713fac-b20b-4f4d-81b2-d88545ae6c96": {
+      "additionalNotes": "Poproszę o ładny uśmiech \n",
+      "creationTimestamp": 1559819484584,
+      "deliveryAddress": {
+        "apartmentNumber": "",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "32-091",
+        "streetAndHouseNumber": "Graniczna 220"
+      },
+      "deliveryDate": {
+        "date": 1560124800000,
+        "timeInterval": {
+          "endingTime": "20:00",
+          "startingTime": "16:00"
+        }
+      },
+      "items": [
+        {
+          "id": 4,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bezrekawnik.jpg?alt=media&token=c7db32c5-6f1b-4f2a-87e5-5b7cbe49a1d0",
+          "initialPrice": 29,
+          "name": "Bezrękawnik",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 4,
+          "uuid": "c932fbf2-2fcb-46b7-a342-50717386c843"
+        },
+        {
+          "id": 4,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bezrekawnik.jpg?alt=media&token=c7db32c5-6f1b-4f2a-87e5-5b7cbe49a1d0",
+          "initialPrice": 29,
+          "modifiers": [
+            {
+              "name": "Odplamianie",
+              "price": 7
+            }
+          ],
+          "name": "Bezrękawnik",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 2,
+          "uuid": "70007686-78c8-460c-a252-0b3f02ac2476"
+        }
+      ],
+      "orderUUID": "e8713fac-b20b-4f4d-81b2-d88545ae6c96",
+      "orderingUser": {
+        "name": "Kacper",
+        "phoneNumber": "884870821",
+        "surname": "Wygoda",
+        "userUuid": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "32-091",
+        "streetAndHouseNumber": "Graniczna 220"
+      },
+      "receptionDate": {
+        "date": 1559865600000,
+        "timeInterval": {
+          "endingTime": "16:00",
+          "startingTime": "12:00"
+        }
+      },
+      "status": "finalized",
+      "userUUID": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2"
+    },
+    "ef9b6a6e-40c6-4670-b663-800c18ec8f7a": {
+      "additionalNotes": "",
+      "creationTimestamp": 1559992712837,
+      "deliveryAddress": {
+        "apartmentNumber": "",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "",
+        "streetAndHouseNumber": ""
+      },
+      "deliveryDate": {
+        "date": 1561507200000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "items": [
+        {
+          "id": 4,
+          "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/bezrekawnik.jpg?alt=media&token=c7db32c5-6f1b-4f2a-87e5-5b7cbe49a1d0",
+          "initialPrice": 29,
+          "name": "Bezrękawnik",
+          "packing": [
+            {
+              "name": "Zafoliowane",
+              "price": 0
+            }
+          ],
+          "quantity": 4,
+          "uuid": "efb96aa3-1fa4-4940-bf66-01a565cb6875"
+        }
+      ],
+      "orderUUID": "ef9b6a6e-40c6-4670-b663-800c18ec8f7a",
+      "orderingUser": {
+        "name": "Mateusz",
+        "phoneNumber": "661990921",
+        "surname": "Data",
+        "userUuid": "7W8s7vLEqPRnEGNvA5FXPxcumPX2"
+      },
+      "promoCode": "none",
+      "receptionAddress": {
+        "apartmentNumber": "",
+        "city": "Kraków",
+        "gatePin": "",
+        "postCode": "31-261",
+        "streetAndHouseNumber": "Ram pam pam 12"
+      },
+      "receptionDate": {
+        "date": 1560988800000,
+        "timeInterval": {
+          "endingTime": "12:00",
+          "startingTime": "08:00"
+        }
+      },
+      "status": "waitingForConfirmation",
+      "userUUID": "7W8s7vLEqPRnEGNvA5FXPxcumPX2"
+    }
+  },
+  "promoCodes": {
+    "3OGTJABH": {
+      "amount": 150,
+      "code": "3OGTJABH",
+      "expirationDate": 0,
+      "name": "Rekomendacja -150zł",
+      "recommendingUserUuid": "Edjjo6vYyRgmT6ZYeV0BR1WfGNw2",
+      "type": "value-recommendation",
+      "uuid": "8aee69d9-bd49-410e-a7e7-9e0ecc736920"
+    },
+    "4EIKDF9U": {
+      "amount": 20,
+      "code": "4EIKDF9U",
+      "expirationDate": 0,
+      "name": "Rekomendacja -20zł",
+      "recommendingUserUuid": "IOtRwuMaxOY37m7SfJG7J339gYu1",
+      "type": "value-recommendation",
+      "uuid": "ffe77721-b328-426a-b19a-b81518e02e9d"
+    },
+    "5QJIEYHY": {
+      "amount": 20,
+      "code": "5QJIEYHY",
+      "expirationDate": 0,
+      "name": "Rekomendacja -20zł",
+      "recommendingUserUuid": "XtVJkoqKfPgCXJJaSL0k9YQGFdf2",
+      "type": "value-recommendation",
+      "uuid": "6e89e664-cb0a-42b5-9641-b544936c9189"
+    },
+    "6QJIEYHY": {
+      "amount": 20,
+      "code": "6QJIEYHY",
+      "expirationDate": 1557487261000,
+      "name": "-20 zł na głupoty",
+      "recommendingUserUuid": "",
+      "type": "value",
+      "uuid": "1e89e664-cb0a-42b6-9641-b544936c9109"
+    },
+    "6YKW21RM": {
+      "amount": 20,
+      "code": "6YKW21RM",
+      "expirationDate": 0,
+      "name": "Rekomendacja -20zł",
+      "recommendingUserUuid": "GPsJeE9dVMeC5yXiOR4CNrxcaRD3",
+      "type": "value-recommendation",
+      "uuid": "3c4f5ec2-7ed5-470f-b5ee-6c2654df4657"
+    },
+    "83WI5UO0": {
+      "amount": 20,
+      "code": "83WI5UO0",
+      "expirationDate": 0,
+      "name": "Rekomendacja -20zł",
+      "recommendingUserUuid": "qi2H7Gcqh3ep9Ui3o2Y49N7mhww2",
+      "type": "value-recommendation",
+      "uuid": "6ea0e011-085b-4daf-9885-69e3eef844b5"
+    },
+    "BV85WVH0": {
+      "amount": 20,
+      "code": "BV85WVH0",
+      "expirationDate": 0,
+      "name": "Rekomendacja -20zł",
+      "recommendingUserUuid": "LQuRHQ31PgcG4KgsN65Z6QeTruD2",
+      "type": "value-recommendation",
+      "uuid": "b737d06f-97ed-4506-b220-fba906c8d77c"
+    },
+    "H3A2I41S": {
+      "amount": 20,
+      "code": "H3A2I41S",
+      "expirationDate": 0,
+      "name": "Rekomendacja -20zł",
+      "recommendingUserUuid": "uq2F7PVT0eOtp8YoJOy83US70xs1",
+      "type": "value-recommendation",
+      "uuid": "2789b7d5-22d6-4d24-953e-3784df7c5d4f"
+    },
+    "KVGMG328": {
+      "amount": 20,
+      "code": "KVGMG328",
+      "expirationDate": 0,
+      "name": "Rekomendacja -20zł",
+      "recommendingUserUuid": "eU0cfD06cgegQpP2C1EPNb3Y1zH3",
+      "type": "value-recommendation",
+      "uuid": "34965e92-08d5-4d4b-a0c2-041803e4d6fa"
+    },
+    "KVJ1BHCS": {
+      "amount": 20,
+      "code": "KVJ1BHCS",
+      "expirationDate": 0,
+      "name": "Rekomendacja -20zł",
+      "recommendingUserUuid": "xNitGHXpLnZ0MBkh8Mc24rfT00g2",
+      "type": "value-recommendation",
+      "uuid": "1ebe39ca-ac30-4434-b8b6-a47af2cb6feb"
+    },
+    "NAYPX99V": {
+      "amount": 20,
+      "code": "NAYPX99V",
+      "expirationDate": 0,
+      "name": "Rekomendacja -20zł",
+      "recommendingUserUuid": "Bv1H34AwiANfjBhxDttHZ40aJMj1",
+      "type": "value-recommendation",
+      "uuid": "7de08bdb-8c28-454c-b873-6bb20b876f9c"
+    },
+    "O30T2TEG": {
+      "amount": 20,
+      "code": "O30T2TEG",
+      "expirationDate": 0,
+      "name": "Rekomendacja -20zł",
+      "recommendingUserUuid": "7W8s7vLEqPRnEGNvA5FXPxcumPX2",
+      "type": "value-recommendation",
+      "uuid": "5ac32d9c-01d0-4aa5-b098-fef7aa19d350"
+    },
+    "OV61RQ6L": {
+      "amount": 20,
+      "code": "OV61RQ6L",
+      "expirationDate": 0,
+      "name": "Rekomendacja -20zł",
+      "recommendingUserUuid": "TKkaSKSn7ZN4yZzdSrmA7fhD2qX2",
+      "type": "value-recommendation",
+      "uuid": "03a2c3ba-9d21-4a10-9e37-cf54dcaaf4f6"
+    },
+    "Q2Y15IK8": {
+      "amount": 20,
+      "code": "Q2Y15IK8",
+      "expirationDate": 0,
+      "name": "Rekomendacja -20zł",
+      "recommendingUserUuid": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2",
+      "type": "value-recommendation",
+      "uuid": "dd15572f-60ba-4e3e-988f-b32476770535"
+    },
+    "RYCQ6KV5": {
+      "amount": 20,
+      "code": "RYCQ6KV5",
+      "expirationDate": 0,
+      "name": "Rekomendacja -20zł",
+      "recommendingUserUuid": "uW17WxIHzia0hMPjIUZFFhvmgkD2",
+      "type": "value-recommendation",
+      "uuid": "522de1e3-d463-4bca-ad95-60aec9ef0c1b"
+    },
+    "UEOW384Q": {
+      "amount": 20,
+      "code": "UEOW384Q",
+      "expirationDate": 0,
+      "name": "Rekomendacja -20zł",
+      "recommendingUserUuid": "ur7Km0bPY8SbqdG75SO7gOiiA7T2",
+      "type": "value-recommendation",
+      "uuid": "6a9db5ae-c521-46f6-a9b6-0aa41a1ecc8c"
+    },
+    "V9RJ8M4S": {
+      "amount": 20,
+      "code": "V9RJ8M4S",
+      "expirationDate": 0,
+      "name": "Rekomendacja -20zł",
+      "recommendingUserUuid": "b7FuPnyqLPMJL1ekqL41iXeRaPC3",
+      "type": "value-recommendation",
+      "uuid": "857c68e6-56f0-4dc0-b3fa-86145fe3f8fe"
+    },
+    "W8BGKQY9": {
+      "amount": 20,
+      "code": "W8BGKQY9",
+      "expirationDate": 0,
+      "name": "Rekomendacja -20zł",
+      "recommendingUserUuid": "coy3cVLa5Rc7d0md5oY0Pt9bAKf1",
+      "type": "value-recommendation",
+      "uuid": "76487812-b51e-4200-842b-63d7d92d96bb"
+    },
+    "WIG2253B": {
+      "amount": 20,
+      "code": "WIG2253B",
+      "expirationDate": 0,
+      "name": "Rekomendacja -20zł",
+      "recommendingUserUuid": "kgpaJAGKGwcxK1T2XwmxRi1joWR2",
+      "type": "value-recommendation",
+      "uuid": "e73aeb45-8a1a-4d57-a6d4-7d07c3bc1b6b"
+    }
+  },
+  "rewards": {
+    "ASFDASDSVxizcjbzfbkas": {
+      "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/polo.jpg?alt=media&token=42ccfee7-4a41-4e9f-9f41-440a86a2e671",
+      "pointsRequired": 15
+    },
+    "BtVJkoqKfPgCXJJaSL0k9YGGFdf&": {
+      "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/koszula.jpg?alt=media&token=26069f73-b8ea-422f-b3aa-9bedbcb67ea4",
+      "pointsRequired": 29
+    },
+    "NtVJkoqKfPgCXJJaSL0k9YGGFdf4": {
+      "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/spodnie.jpg?alt=media&token=810e217b-a71a-42ae-bb3e-1f720254ee03",
+      "pointsRequired": 49
+    },
+    "XtVJkoqKfPgCXJJaSL0k9YGGFdf6": {
+      "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/pkt_sweter.jpg?alt=media&token=bcccc80d-a79a-4cf3-9b8b-17914efb0c82",
+      "pointsRequired": 79
+    },
+    "ZtVJkoqKfPgCXJJaSL0k9YGGFdf9": {
+      "image": "https://firebasestorage.googleapis.com/v0/b/ciociareniaclient.appspot.com/o/pkt_marynarka.jpg?alt=media&token=579aa162-3675-480f-b5c5-08465ddcc5dc",
+      "pointsRequired": 99
+    }
+  },
+  "userInfo": {
+    "allowedCities": {
+      "8b12uyfas8ybc8y782174532": {
+        "code": 31,
+        "isActive": true,
+        "name": "Kraków"
+      },
+      "aasfibb243b42bias": {
+        "code": 50,
+        "isActive": false,
+        "name": "Wrocław"
+      },
+      "asjfbi23oy5bb23h5v23adsc": {
+        "code": 0,
+        "isActive": false,
+        "name": "Warszawa"
+      },
+      "ijhuibiuasbd7324324": {
+        "code": 40,
+        "isActive": false,
+        "name": "Katowice"
+      }
+    },
+    "contact": {
+      "city": "Kraków",
+      "country": "Polska",
+      "email": "platforma@ciociarenia.pl",
+      "endingTime": "18:00",
+      "phoneNumber": "+48664020838",
+      "postCode": "31-261",
+      "startingTime": "08:00",
+      "streetAndHouseNumber": "Piotra Wysockiego 2",
+      "website": "https://ciociarenia.pl"
+    },
+    "orderRules": {
+      "minTotal": 75
+    },
+    "termsAndConditions": {
+      "privacyPolitics": "https://ciociarenia.app/polityka-prywatnosci/",
+      "promotions": "https://ciociarenia.app/ciocioklub/",
+      "regulations": "https://ciociarenia.app/regulamin/",
+      "website": "https://ciociarenia.app"
+    }
+  },
+  "users": {
+    "7W8s7vLEqPRnEGNvA5FXPxcumPX2": {
+      "addresses": {
+        "1ba70dbc-d7df-43a0-a25a-895ae03da39e": {
+          "apartmentNumber": "1",
+          "city": "Kraków",
+          "gatePin": "",
+          "postCode": "31-261",
+          "streetAndHouseNumber": "Warszawska 203",
+          "uuid": "1ba70dbc-d7df-43a0-a25a-895ae03da39e"
+        },
+        "7da2d086-3d4a-45f5-a007-326b267b136a": {
+          "apartmentNumber": "",
+          "city": "Kraków",
+          "gatePin": "",
+          "postCode": "31-261",
+          "streetAndHouseNumber": "Ram pam pam 12",
+          "uuid": "7da2d086-3d4a-45f5-a007-326b267b136a"
+        }
+      },
+      "cityName": "Kraków",
+      "email": "mateuszdata@datadesign.pl",
+      "marketingPermission": true,
+      "name": "Mateusz",
+      "notificationToken": "dfa844df-f4a4-4859-b5cf-0ef598871afb",
+      "phoneNumber": "661990921",
+      "points": 13,
+      "promoCode": "O30T2TEG",
+      "regionalCode": "+48",
+      "role": "user",
+      "surname": "Data"
+    },
+    "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2": {
+      "addresses": {
+        "aa038b17-36dc-4d61-aeef-fb5301d1e1c2": {
+          "apartmentNumber": "19/29",
+          "city": "Kraków",
+          "gatePin": "",
+          "postCode": "31-279",
+          "streetAndHouseNumber": "Krowoderskich Zuchów ",
+          "uuid": "aa038b17-36dc-4d61-aeef-fb5301d1e1c2"
+        },
+        "b42454e9-f66f-4d77-9722-0f576a5b7f88": {
+          "apartmentNumber": "",
+          "city": "Kraków",
+          "gatePin": "",
+          "postCode": "32-091",
+          "streetAndHouseNumber": "Graniczna 220",
+          "uuid": "b42454e9-f66f-4d77-9722-0f576a5b7f88"
+        }
+      },
+      "cityName": "Kraków",
+      "email": "kacper.wygoda@codahead.com",
+      "marketingPermission": true,
+      "name": "Kacper",
+      "notificationToken": "9b10757a-0735-4252-9575-ef7c35722f81",
+      "phoneNumber": "884870821",
+      "points": 69,
+      "promoCode": "Q2Y15IK8",
+      "recommendedUsers": {
+        "XtVJkoqKfPgCXJJaSL0k9YQGFdf2": {
+          "date": 1559661364020,
+          "userUuid": "XtVJkoqKfPgCXJJaSL0k9YQGFdf2",
+          "uuid": "ae8b3937-95c8-4918-8a72-1a6d1539aa83"
+        }
+      },
+      "regionalCode": "+48",
+      "role": "user",
+      "savedPromoCodes": {
+        "3OGTJABH": {
+          "amount": 150,
+          "code": "3OGTJABH",
+          "expirationDate": 0,
+          "name": "Rekomendacja -150zł",
+          "type": "value-recommendation",
+          "userRecommending": "Edjjo6vYyRgmT6ZYeV0BR1WfGNw2",
+          "uuid": "6cf86480-fdda-45a8-8bac-4199e7e6f137",
+          "wasUsed": false
+        }
+      },
+      "surname": "Wygoda"
+    },
+    "HmQ5wuOYkEZE9VN2RIn9sdPpJxo2": {
+      "cityName": "Kraków",
+      "email": "flyflyerson@gmail.com",
+      "marketingPermission": false,
+      "name": "Fly",
+      "notificationToken": "bef05496-0a28-47e8-9f21-ea9ca009f309",
+      "phoneNumber": "408476651",
+      "points": 0,
+      "promoCode": "ARXNCYMI",
+      "regionalCode": "+48",
+      "role": "user",
+      "surname": "Flyerson"
+    },
+    "LQuRHQ31PgcG4KgsN65Z6QeTruD2": {
+      "cityName": "Kraków",
+      "email": "radwaski.maciek@gmail.cok",
+      "marketingPermission": false,
+      "name": "Maciek",
+      "notificationToken": "4657b29b-54a9-4cee-9b12-598011726565",
+      "phoneNumber": "691249284",
+      "points": 69,
+      "promoCode": "BV85WVH0",
+      "regionalCode": "+48",
+      "role": "user",
+      "surname": "Radwański"
+    },
+    "TKkaSKSn7ZN4yZzdSrmA7fhD2qX2": {
+      "cityName": "Kraków",
+      "email": "marcelina495@interia.pl",
+      "marketingPermission": true,
+      "name": "Marcelina ",
+      "notificationToken": "86cda102-fec9-47bd-9527-e1adf9cb228a",
+      "phoneNumber": "503136770",
+      "points": 0,
+      "promoCode": "OV61RQ6L",
+      "regionalCode": "+48",
+      "role": "user",
+      "surname": "Sieroń"
+    },
+    "XtVJkoqKfPgCXJJaSL0k9YQGFdf2": {
+      "addresses": {
+        "308d832f-e71f-4af4-a505-6c7cdc9115de": {
+          "apartmentNumber": "12/112",
+          "city": "Kraków",
+          "gatePin": "997",
+          "postCode": "31-998",
+          "streetAndHouseNumber": "Krakowska 112",
+          "uuid": "308d832f-e71f-4af4-a505-6c7cdc9115de"
+        },
+        "8d56f1c2-a394-4a01-af67-4a418e0fe155": {
+          "apartmentNumber": "19/29",
+          "city": "Kraków",
+          "gatePin": "1234",
+          "postCode": "30-091",
+          "streetAndHouseNumber": "Krakowska 220",
+          "uuid": "8d56f1c2-a394-4a01-af67-4a418e0fe155"
+        },
+        "EpDFxmv44aPk4VLtfasfdvdzoSai1": {
+          "apartmentNumber": "",
+          "city": "Kraków",
+          "gatePin": "",
+          "postCode": "32-091",
+          "streetAndHouseNumber": "Graniczna 220",
+          "uuid": "EpDFxmv44aPk4VLtfasfdvdzoSai1"
+        },
+        "MgHFxmv44aPk4VLtYAvecMzoBAi1": {
+          "apartmentNumber": "19/29",
+          "city": "Kraków",
+          "gatePin": 1337,
+          "postCode": "31-279",
+          "streetAndHouseNumber": "Krowoderskich Zuchów",
+          "uuid": "MgHFxmv44aPk4VLtYAvecMzoBAi1"
+        },
+        "fba7fcfa-c043-46a9-97a2-1ea93304e85c": {
+          "apartmentNumber": "41",
+          "city": "Kraków",
+          "gatePin": "",
+          "postCode": "30-324",
+          "streetAndHouseNumber": "Rostworowskiego 11",
+          "uuid": "fba7fcfa-c043-46a9-97a2-1ea93304e85c"
+        }
+      },
+      "cityName": "Kraków",
+      "email": "wygoda.kacper@gmail.com",
+      "marketingPermission": true,
+      "name": "Kacper",
+      "notificationToken": "a4f680d7-f88d-4d3f-93e4-de6b05cef019",
+      "phoneNumber": "884870821",
+      "points": 140,
+      "promoCode": "5QJIEYHY",
+      "recommendedUsers": {
+        "oPn4xeCyZcWF6qfosCykHr3C9Jz2": {
+          "date": 1557524515316,
+          "userUuid": "oPn4xeCyZcWF6qfosCykHr3C9Jz2",
+          "uuid": "deebb879-a5c9-45c8-b7e2-126fdb6ab7f6"
+        }
+      },
+      "regionalCode": "+48",
+      "role": "user",
+      "savedPromoCodes": {
+        "6QJIEYHY": {
+          "amount": 20,
+          "code": "6QJIEYHY",
+          "expirationDate": 1557487261000,
+          "name": "-20 zł na głupoty",
+          "type": "value",
+          "userRecommending": "",
+          "uuid": "551710c4-7d95-499f-b306-bbbcd8292cea",
+          "wasUsed": false
+        },
+        "Q2Y15IK8": {
+          "amount": 20,
+          "code": "Q2Y15IK8",
+          "expirationDate": 0,
+          "name": "Rekomendacja -20zł",
+          "type": "value-recommendation",
+          "userRecommending": "8N1sVXCbZ7Qc5SVYNPUnTqs3hoh2",
+          "uuid": "1e8348ee-90ad-4749-8fb6-60be07e20086",
+          "wasUsed": true
+        }
+      },
+      "surname": "Wygoda"
+    },
+    "b7FuPnyqLPMJL1ekqL41iXeRaPC3": {
+      "cityName": "Kraków",
+      "email": "wydzioo2@gmail.com",
+      "marketingPermission": true,
+      "name": "Kacper",
+      "notificationToken": "a4f680d7-f88d-4d3f-93e4-de6b05cef019",
+      "phoneNumber": "884870821",
+      "points": 0,
+      "promoCode": "V9RJ8M4S",
+      "regionalCode": "+48",
+      "role": "admin",
+      "surname": "Wygoda"
+    },
+    "eU0cfD06cgegQpP2C1EPNb3Y1zH3": {
+      "addresses": {
+        "488e33c7-a1e3-4b25-84f2-0d0a777ce214": {
+          "apartmentNumber": "35",
+          "city": "Kraków",
+          "gatePin": "",
+          "postCode": "31-236",
+          "streetAndHouseNumber": "Bdyxg",
+          "uuid": "488e33c7-a1e3-4b25-84f2-0d0a777ce214"
+        },
+        "a384da32-8fc9-42df-9ecb-f396e06262bd": {
+          "apartmentNumber": "87",
+          "city": "Kraków",
+          "gatePin": "",
+          "postCode": "30-023",
+          "streetAndHouseNumber": "Stolarska 2",
+          "uuid": "a384da32-8fc9-42df-9ecb-f396e06262bd"
+        }
+      },
+      "cityName": "Kraków",
+      "email": "mafeusz@gmail.com",
+      "marketingPermission": true,
+      "name": "Mateusz",
+      "notificationToken": "dfa844df-f4a4-4859-b5cf-0ef598871afb",
+      "phoneNumber": "661990921",
+      "points": 35,
+      "promoCode": "KVGMG328",
+      "regionalCode": "+48",
+      "role": "admin",
+      "savedPromoCodes": {
+        "3OGTJABH": {
+          "amount": 150,
+          "code": "3OGTJABH",
+          "expirationDate": 0,
+          "name": "Rekomendacja -150zł",
+          "type": "value-recommendation",
+          "userRecommending": "Edjjo6vYyRgmT6ZYeV0BR1WfGNw2",
+          "uuid": "e949e98c-fdb0-415b-a93c-f2d27f4293f3",
+          "wasUsed": true
+        }
+      },
+      "surname": "Data"
+    },
+    "kgpaJAGKGwcxK1T2XwmxRi1joWR2": {
+      "addresses": {
+        "2f5a2b60-4290-4fc1-b2e5-8b4b8b888b64": {
+          "apartmentNumber": "7",
+          "city": "Kraków",
+          "gatePin": "",
+          "postCode": "31-831",
+          "streetAndHouseNumber": "Fatimska 18",
+          "uuid": "2f5a2b60-4290-4fc1-b2e5-8b4b8b888b64"
+        }
+      },
+      "cityName": "Kraków",
+      "email": "datamarcin@gmail.com",
+      "marketingPermission": true,
+      "name": "Marcin",
+      "notificationToken": "140aa319-4fdd-4549-8e57-9b4e1f12e2e9",
+      "phoneNumber": "508274045",
+      "points": "40",
+      "promoCode": "WIG2253B",
+      "regionalCode": "+48",
+      "role": "User",
+      "surname": "Data"
+    },
+    "qi2H7Gcqh3ep9Ui3o2Y49N7mhww2": {
+      "cityName": "Kraków",
+      "email": "juliasacha@wp.pl",
+      "name": "Julia",
+      "notificationToken": "28f3bfb5-97b1-440b-9aa6-12fa776ea5b6",
+      "phoneNumber": "733386388",
+      "points": 0,
+      "promoCode": "83WI5UO0",
+      "regionalCode": "+48",
+      "role": "user",
+      "surname": "Sacha"
+    },
+    "uW17WxIHzia0hMPjIUZFFhvmgkD2": {
+      "addresses": {
+        "48c163f0-e696-4a8b-bee4-9e02c35c9100": {
+          "apartmentNumber": "33",
+          "city": "Kraków",
+          "gatePin": "",
+          "postCode": "31-261",
+          "streetAndHouseNumber": "Bxv",
+          "uuid": "48c163f0-e696-4a8b-bee4-9e02c35c9100"
+        }
+      },
+      "cityName": "Kraków",
+      "email": "biuro@datadesign.pl",
+      "marketingPermission": false,
+      "name": "Mateusz",
+      "notificationToken": "dfa844df-f4a4-4859-b5cf-0ef598871afb",
+      "phoneNumber": "661990921",
+      "points": 200,
+      "promoCode": "RYCQ6KV5",
+      "recommendedUsers": {
+        "kgpaJAGKGwcxK1T2XwmxRi1joWR2": {
+          "date": 1558093115321,
+          "userUuid": "kgpaJAGKGwcxK1T2XwmxRi1joWR2",
+          "uuid": "1e55823c-0410-4913-ba74-f36627922251"
+        }
+      },
+      "regionalCode": "+48",
+      "role": "user",
+      "surname": "Dara"
+    },
+    "uq2F7PVT0eOtp8YoJOy83US70xs1": {
+      "cityName": "Kraków",
+      "email": "mateusz_data@icloud.com",
+      "marketingPermission": true,
+      "name": "Mateusz",
+      "notificationToken": "dfa844df-f4a4-4859-b5cf-0ef598871afb",
+      "phoneNumber": "661990921",
+      "points": 0,
+      "promoCode": "H3A2I41S",
+      "regionalCode": "+48",
+      "role": "user",
+      "surname": "Data"
+    },
+    "ur7Km0bPY8SbqdG75SO7gOiiA7T2": {
+      "addresses": {
+        "60ce3c7b-ed31-4505-a843-3f59f98ae8c7": {
+          "apartmentNumber": "44",
+          "city": "Kraków",
+          "gatePin": "",
+          "postCode": "31-346",
+          "streetAndHouseNumber": "Test",
+          "uuid": "60ce3c7b-ed31-4505-a843-3f59f98ae8c7"
+        }
+      },
+      "cityName": "Kraków",
+      "email": "gedlek.katarzyna@gmail.com",
+      "marketingPermission": true,
+      "name": "Katarzyna",
+      "notificationToken": "c1ebd8d3-fbb8-46ce-9b6f-10d95daf1b00",
+      "phoneNumber": "510713062",
+      "points": 0,
+      "promoCode": "UEOW384Q",
+      "regionalCode": "+48",
+      "role": "user",
+      "surname": "Gdlk"
+    },
+    "xNitGHXpLnZ0MBkh8Mc24rfT00g2": {
+      "cityName": "Kraków",
+      "email": "mateuszromanczuk43@gmail.com",
+      "marketingPermission": false,
+      "name": "Mateusz",
+      "notificationToken": "a3477eea-a17e-42b1-aa1b-c386f10d67b0",
+      "phoneNumber": "606364752",
+      "points": 0,
+      "promoCode": "KVJ1BHCS",
+      "regionalCode": "+48",
+      "role": "user",
+      "surname": "Romanczuk"
+    }
+  }
+}
