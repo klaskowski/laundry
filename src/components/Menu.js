@@ -14,8 +14,9 @@ import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
 import ListItem from '@material-ui/core/ListItem';
 import ListItemText from '@material-ui/core/ListItemText';
 import Button from '@material-ui/core/Button';
-import Popover from '@material-ui/core/Popover';
 import { withRouter } from 'react-router-dom'
+import firebase from 'firebase';
+import Collapse from '@material-ui/core/Collapse';
 
 const drawerWidth = 240;
 
@@ -77,7 +78,8 @@ const useStyles = makeStyles(theme => ({
     marginRight: theme.spacing(1)
   },
   logoButton: {
-    height: "50px"
+    height: "50px",
+    "margin-left": "20px"
   },
   spacer: {
     "padding-bottom": "120px"
@@ -98,16 +100,11 @@ export default withRouter(({history}) => {
     setOpen(false);
   }
 
-  function handleLogoClick(event){
-    setLogoMenu(event.currentTarget)
-  }
-
-  function handleOutsideLogoClick(){
-    setLogoMenu(null)
+  function handleLogoClick(){
+    setLogoMenu(!menuOpen)
   }
 
   const menuOpen = Boolean(logoMenu);
-  const id = menuOpen ? 'simple-popover' : undefined;
 
   return (
     <div className={classes.root}>
@@ -131,25 +128,21 @@ export default withRouter(({history}) => {
           <Typography variant="h6" noWrap style={{ flexGrow: 1 }}>
             Pralnia
           </Typography>
-          <Button className={classes.logoButton} variant="contained" onClick={handleLogoClick}><img alt="logo" src={require('./logo.png')} style={{height: "40px"}}/></Button>
-          <Popover
-            id={id}
-            open={menuOpen}
-            anchorEl={logoMenu}
-            onClose={handleOutsideLogoClick}
-            anchorOrigin={{
-              vertical: 'bottom',
-              horizontal: 'center',
-            }}
-            transformOrigin={{
-              vertical: 'top',
-              horizontal: 'center',
-            }}
-          ><Typography>
+          <Collapse in={menuOpen}>
+          { !firebase.auth().currentUser &&
+            <React.Fragment>
             <Button className={classes.signUpButton} color="secondary" variant="contained" onClick={() => { history.push("/register/") }}>Zarejestruj się</Button>
             <Button color="secondary" variant="contained" onClick={() => { history.push("/login/") }}>Zaloguj się</Button>
-            </Typography>
-          </Popover>
+            </React.Fragment>
+          }
+          { firebase.auth().currentUser &&
+            <React.Fragment>
+            <Typography>Zalogowany jako {firebase.auth().currentUser.email} </Typography>
+            <Button color="secondary" variant="contained" onClick={() => { firebase.auth().signOut().then(() => history.push("/")) }}>Wyloguj się</Button>
+            </React.Fragment>
+          }
+          </Collapse>
+          <Button className={classes.logoButton} variant="contained" onClick={handleLogoClick}><img alt="logo" src={require('./logo.png')} style={{height: "40px"}}/></Button>
         </Toolbar>
       </AppBar>
       <Drawer
@@ -171,19 +164,19 @@ export default withRouter(({history}) => {
           {[{
             label: 'Zamówienia',
             path: '/orders/'
-           },{
+          },{
             label: 'Kierowcy',
             path: '/'
-           },{
+          },{
             label: 'Historia zamówień',
             path: '/history/'
-           },{
+          },{
             label: 'Personel',
             path: '/'
-           },{
+          },{
             label: 'Statystyki',
             path: '/'
-           }].map((el) => (
+          }].map((el) => (
             <ListItem button key={el.label}>
               <ListItemText primary={el.label} onClick={() => { history.push(el.path); handleDrawerClose() }}/>
             </ListItem>

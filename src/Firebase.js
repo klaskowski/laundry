@@ -9,4 +9,6 @@ const config = {
     appId: "1:896722415486:web:65301e701af65367"
 };
 firebase.initializeApp(config);
+
 export default firebase;
+export const ordersRef = firebase.database().ref('orders');

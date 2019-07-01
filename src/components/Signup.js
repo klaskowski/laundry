@@ -48,8 +48,7 @@ export default withRouter(({history}) => {
     firebase.auth().createUserWithEmailAndPassword(email, password)
     .then(data => {
       if(data && data.user){
-        //zapisać usera
-        history.push("/orders/")
+        history.push("/")
       } else if(data.error) {
         console.error(data.error)
       } else {
@@ -109,12 +108,12 @@ export default withRouter(({history}) => {
             className={classes.submit}
             onClick={register}
           >
-            Sign Up
+            Zarejestruj
           </Button>
           <Grid container justify="flex-end">
             <Grid item>
               <Link href="/login/" variant="body2">
-                Already have an account? Sign in
+                Masz juz konto? Zaloguj się
               </Link>
             </Grid>
           </Grid>

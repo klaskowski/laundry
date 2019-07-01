@@ -104,12 +104,12 @@ export default withRouter(({history}) => {
             className={classes.submit}
             onClick={login}
           >
-            Sign In
+            Zaloguj
           </Button>
           <Grid container>
             <Grid item xs>
               <Link href="/register/" variant="body2">
-                {"Don't have an account? Sign Up"}
+                Nie masz jeszcze konta? Zarejestruj się
               </Link>
             </Grid>
           </Grid>
