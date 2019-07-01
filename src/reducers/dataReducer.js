@@ -1,9 +1,7 @@
 import { FETCH_ORDERS } from "../actions/types";
 
 const initialState = {
-  data: {
-    orders:[],
-  }
+  orders: []
 }
 
 export default (state = initialState, action) => {

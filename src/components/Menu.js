@@ -82,7 +82,7 @@ const useStyles = makeStyles(theme => ({
     "margin-left": "20px"
   },
   spacer: {
-    "padding-bottom": "120px"
+    "padding-bottom": "64px"
   }
 }));
 

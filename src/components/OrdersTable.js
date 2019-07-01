@@ -23,7 +23,7 @@ const uuidv4 = () => 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, c =
 });
 
 const mapStateToProps = state => ({
-  ordersData: state.data.orders || []
+  ordersData: state.data.orders
 })
 
 export default connect(

@@ -3,13 +3,13 @@ import Avatar from '@material-ui/core/Avatar';
 import Button from '@material-ui/core/Button';
 import CssBaseline from '@material-ui/core/CssBaseline';
 import TextField from '@material-ui/core/TextField';
-import Link from '@material-ui/core/Link';
+import MuLink from '@material-ui/core/Link';
 import Grid from '@material-ui/core/Grid';
 import LockOutlinedIcon from '@material-ui/icons/LockOutlined';
 import Typography from '@material-ui/core/Typography';
 import { makeStyles } from '@material-ui/core/styles';
 import Container from '@material-ui/core/Container';
-import { withRouter } from 'react-router-dom'
+import { withRouter, Link } from 'react-router-dom'
 import firebase from 'firebase';
 
 const useStyles = makeStyles(theme => ({
@@ -38,23 +38,19 @@ const useStyles = makeStyles(theme => ({
 }));
 
 export default withRouter(({history}) => {
+  if(firebase.auth().currentUser) firebase.auth().signOut();
+
   const classes = useStyles();
 
   const [email, setEmail] = React.useState("");
   const [password, setPassword] = React.useState("");
 
-  function login(event) {
+  const login = event => {
     event.preventDefault();
     firebase.auth().signInWithEmailAndPassword(email, password)
     .then(data => {
-      if(data && data.user){
-        //zapisać usera
-        history.push("/orders/")
-      } else if(data.error) {
-        console.error(data.error)
-      } else {
-        console.error(data)
-      }
+      if(data && data.user) history.push("/")
+      else console.error(data.error || data)
     })
     .catch(error => {
       console.error(error)
@@ -108,9 +104,9 @@ export default withRouter(({history}) => {
           </Button>
           <Grid container>
             <Grid item xs>
-              <Link href="/register/" variant="body2">
-                Nie masz jeszcze konta? Zarejestruj się
-              </Link>
+              <MuLink variant="body2" component={Link} to="/register/">
+                  Nie masz jeszcze konta? Zarejestruj się
+              </MuLink>
             </Grid>
           </Grid>
         </form>
