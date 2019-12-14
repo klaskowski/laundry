@@ -26,22 +26,22 @@ const mapStateToProps = state => ({
   ordersData: state.data.orders
 })
 
+const columns = [
+  { title: 'ID zamówienia', field: 'orderUUID' },
+  { title: 'Imię i nazwisko', field: 'fullName' },
+  { title: 'Kwota zamówienia', field: 'price', type: 'numeric' },
+  { title: 'Kod promocyjny', field: 'promoCode'},
+  { title: 'Status', field: 'status' }
+]
+
 export default connect(
   mapStateToProps,
   {fetchOrders}
 )(({historicalData = false, ordersData, fetchOrders}) => {
 
-  const columns = [
-    { title: 'ID zamówienia', field: 'orderUUID' },
-    { title: 'Imię i nazwisko', field: 'fullName' },
-    { title: 'Kwota zamówienia', field: 'price', type: 'numeric' },
-    { title: 'Kod promocyjny', field: 'promoCode'},
-    { title: 'Status', field: 'status' }
-  ]
-
   const classes = useStyles();
 
-  fetchOrders();
+  React.useEffect(() => fetchOrders(), []);
 
   const options = historicalData ? {} : {
     paging: false,
@@ -95,15 +95,18 @@ export default connect(
         },
         onRowUpdate: (newData, oldData) =>
           {
-            firebase.database().ref('orders').push().set({
+            firebase.database().ref(`orders/${oldData.orderUUID}`).set({
               status: newData.status,
-              promoCode: {
+              promoCode: newData.promoCode ? {
+                ...oldData.promoCode,
                 code: newData.promoCode
-              },
-              // items: [{
-              //   initialPrice: newData.initialPrice
-              // }],
+              } : "none",
+              items: [{
+                initialPrice: Number.parseFloat(newData.price),
+                quantity: 1
+              }],
               orderingUser: {
+                ...oldData.orderingUser,
                 name: newData.fullName.split(" ")[0],
                 surname: newData.fullName.split(" ")[1]
               }
